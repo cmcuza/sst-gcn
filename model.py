@@ -25,10 +25,10 @@ class ConvFilter(nn.Module):
 
 
 class GCN(nn.Module):
-    def __init__(self, c_in, c_out, dropout, support_len=2, K=2):
+    def __init__(self, c_in, c_out, dropout, K=2):
         super(GCN, self).__init__()
         self.agg = Aggregate()
-        c_in = (K * support_len + 1) * c_in
+        c_in = (K + 1) * c_in
         self.filter = ConvFilter(c_in, c_out)
         self.dropout = dropout
         self.K = K
@@ -52,7 +52,7 @@ class GCN(nn.Module):
 
 class SST_GCN(nn.Module):
     def __init__(self, device, adj, dropout=0.3,
-                 kernel_num=16, hist_size=4, kernel_size=2, layers=2):
+                 kernel_num=16, hist_size=4, kernel_size=2, layers=2, K=2):
 
         super(SST_GCN, self).__init__()
         self.dropout = dropout
@@ -74,7 +74,7 @@ class SST_GCN(nn.Module):
         self.one_tensor = torch.tensor(1.0).to(self.device)
         receptive_field = 1
         self.bias = []
-        self.num_agg = 1
+        self.num_agg = K
 
         new_dilation = 1
         additional_scope = kernel_size - 1
@@ -88,7 +88,7 @@ class SST_GCN(nn.Module):
                                           dilation=new_dilation,
                                           bias=False))
 
-                self.gcn.append(GCN(kernel_num, kernel_num, dropout, support_len=self.num_agg))
+                self.gcn.append(GCN(kernel_num, kernel_num, dropout, self.num_agg))
 
             self.bn.append(nn.BatchNorm3d(kernel_num))
             self.bias.append(
@@ -121,10 +121,14 @@ class SST_GCN(nn.Module):
         x = torch.transpose(x, 2, 4)
         agg_1 = self.context_diffusion(context)
         for l in range(self.layers):
-            diag = torch.diagonal(agg_1, dim1=1, dim2=2)
-            new_ctx = torch.where(diag == 1.0, self.zero_tensor, self.one_tensor)
-            agg_2 = self.context_diffusion(new_ctx)
-            aggregations = [agg_1, agg_2]
+            aggregations = [agg_1]
+            for k in range(1, self.num_agg):
+                diag = torch.diagonal(agg_1, dim1=1, dim2=2)
+                new_ctx = torch.where(diag == 1.0, self.zero_tensor, self.one_tensor)
+                agg_2 = self.context_diffusion(new_ctx)
+                aggregations.append(agg_2)
+                agg_1 = agg_2
+
             residual = x
             tensor_list = []
             for i in range(self.hist_size):
@@ -139,10 +143,6 @@ class SST_GCN(nn.Module):
             x = F.relu(x + self.bias[l])
             x = F.dropout(x, self.dropout, training=self.training)
             x = self.bn[l](x)
-
-            diag = torch.diagonal(agg_2, dim1=1, dim2=2)
-            new_ctx = torch.where(diag == 1.0, self.zero_tensor, self.one_tensor)
-            agg_1 = self.context_diffusion(new_ctx)
 
         x = torch.squeeze(x, dim=-1)
 
