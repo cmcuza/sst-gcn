@@ -1,7 +1,7 @@
 # SST-GCN
 
 This is the python repository associated to the paper _Spatio-Temporal Graph Convolutional Networks for
-Stochastic Traffic Speed Imputation_ [here][1]
+Stochastic Traffic Speed Imputation_ [1]
 
 The paper implements a method to estimate the missing speed distribution given a traffic dataset. 
 
@@ -20,7 +20,7 @@ The code is written in Python 3.7 and Pytorch. Specifically:
 
 ### Dataset
 
-The dataset is given already preprocessed on each fold (1-5). The raw data is described in this [paper][2]
+The dataset is given already preprocessed on each fold (1-5). The raw data is described in [2]
 
 The dataset is divided according to the missing information rate, e.g, _rm_0.5_ means that 50% of the speed distributions is missing during training.
 
