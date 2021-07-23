@@ -51,7 +51,7 @@ This will run a full 5-fold-cross validation and return the evaluation metrics f
 Please note that the package does not include implementations of baseline methods.
 
 [1]: Carlos Muniz Cuza, Nguyen Ho, Eleni Tzirita Zacharatou, Torben Pedersen, Bin Yang. Spatio-Temporal Graph Convolutional Networks for
-Stochastic Traffic Speed Imputation. ICDE 2022.
+Stochastic Traffic Speed Imputation. 2022.
 
 [2]: F. Guo, D. Zhang, Y. Dong, and Z. Guo, “Urban link travel speed dataset from a megacity road network,” Scientific data, vol. 6, no. 1, pp. 1–8, 2019.
 
