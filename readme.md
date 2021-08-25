@@ -38,7 +38,7 @@ The dataset is divided according to the missing information rate, e.g, _rm_0.5_ 
 
 The dataset is further divided according the number of edges of the road network subset, i.e., 173 and 40.
 
-Highway Tollgates Network dataset [3] is not public, thus, we don't share it here. 
+Highway Tollgates Network dataset [3] is not public any more, thus, we don't share it here. 
 
 ### Run
 
