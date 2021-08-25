@@ -38,6 +38,8 @@ The dataset is divided according to the missing information rate, e.g, _rm_0.5_ 
 
 The dataset is further divided according the number of edges of the road network subset, i.e., 173 and 40.
 
+Highway Tollgates Network dataset [3] is not public, thus, we don't share it here. 
+
 ### Run
 
 To run check first the parameters on the file _config.py_. Then, 
@@ -55,5 +57,5 @@ Stochastic Traffic Speed Imputation. 2022.
 
 [2]: F. Guo, D. Zhang, Y. Dong, and Z. Guo, “Urban link travel speed dataset from a megacity road network,” Scientific data, vol. 6, no. 1, pp. 1–8, 2019.
 
-
+[3] KDD ’17: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. New York, NY, USA: Association for Computing Machinery, 2017.
 
