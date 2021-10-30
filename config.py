@@ -15,4 +15,5 @@ parser.add_argument('--epochs', type=int, default=10, help='Number of epochs')
 parser.add_argument('--print_every', type=int, default=50, help='Logging')
 parser.add_argument('--save', type=str,default=p.join('garage', 'chengdu40'), help='save path')
 parser.add_argument('--fold', type=int, default=0, help='current fold')
+parser.add_argument('--hist', default=[15, 25, 35, 45])
 

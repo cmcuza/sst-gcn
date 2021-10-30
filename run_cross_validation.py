@@ -65,8 +65,7 @@ def cross_validation():
 
             log = 'Epoch: {:03d}, Train Loss: {:.4f}, Valid Loss: {:.4f}, Training Time: {:.4f}/epoch'
             print(log.format(i, mtrain_loss, mvalid_loss, (t2 - t1)), flush=True)
-            torch.save(engine.model.state_dict(),
-                       args.save + "_epoch_" + str(i) + "_" + str(round(mvalid_loss, 2)) + ".pth")
+            torch.save(engine.model.state_dict(), args.save + "_epoch_" + str(i) + "_" + str(round(mvalid_loss, 2)) + ".pth")
         print("Average Training Time: {:.4f} secs/epoch".format(np.mean(train_time)))
         print("Average Inference Time: {:.4f} secs".format(np.mean(val_time)))
 

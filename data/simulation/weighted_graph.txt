@@ -1,0 +1,534 @@
+40 86 {'mean_speed': 20.6, 'name': 117, 'time': 44.77, 'length': 256.21, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([61.49, 61.49, 61.49, 61.49, 61.49])}
+40 142 {'mean_speed': 25.24, 'name': 118, 'time': 30.2, 'length': 211.74, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([50.82, 50.82, 50.82, 50.82, 50.82])}
+40 832 {'mean_speed': 23.81, 'name': 119, 'time': 18.76, 'length': 124.11, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([29.79, 29.79, 29.79, 29.79, 29.79])}
+86 972 {'mean_speed': 33.3, 'name': 239, 'time': 18.9, 'length': 174.8, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([41.95, 41.95, 41.95, 41.95, 41.95])}
+86 212 {'mean_speed': 31.1, 'name': 240, 'time': 51.37, 'length': 443.81, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([106.51, 106.51, 106.51, 106.51, 106.51])}
+86 40 {'mean_speed': 25.64, 'name': 3168, 'time': 35.97, 'length': 256.21, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([61.49, 61.49, 61.49, 61.49, 61.49])}
+142 972 {'mean_speed': 21.67, 'name': 402, 'time': 40.8, 'length': 245.58, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([58.94, 58.94, 58.94, 58.94, 58.94])}
+142 604 {'mean_speed': 41.31, 'name': 403, 'time': 33.72, 'length': 386.96, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([92.87, 92.87, 92.87, 92.87, 92.87])}
+142 790 {'mean_speed': 37.77, 'name': 404, 'time': 29.58, 'length': 310.34, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([74.48, 74.48, 74.48, 74.48, 74.48])}
+142 40 {'mean_speed': 21.48, 'name': 3169, 'time': 35.49, 'length': 211.74, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([50.82, 50.82, 50.82, 50.82, 50.82])}
+832 1000 {'mean_speed': 24.77, 'name': 1883, 'time': 34.71, 'length': 238.84, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([57.32, 57.32, 57.32, 57.32, 57.32])}
+832 40 {'mean_speed': 22.92, 'name': 3170, 'time': 19.49, 'length': 124.11, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([29.79, 29.79, 29.79, 29.79, 29.79])}
+832 667 {'mean_speed': 29.84, 'name': 4587, 'time': 36.7, 'length': 304.23, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([73.01, 73.01, 73.01, 73.01, 73.01])}
+69 1409 {'mean_speed': 42.41, 'name': 187, 'time': 18.48, 'length': 217.72, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([52.25, 52.25, 52.25, 52.25, 52.25])}
+69 1672 {'mean_speed': 36.38, 'name': 188, 'time': 53.77, 'length': 543.33, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([130.4, 130.4, 130.4, 130.4, 130.4])}
+69 1627 {'mean_speed': 42.37, 'name': 189, 'time': 36.8, 'length': 433.09, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([103.94, 103.94, 103.94, 103.94, 103.94])}
+69 991 {'mean_speed': 44.37, 'name': 190, 'time': 27.21, 'length': 335.35, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([80.48, 80.48, 80.48, 80.48, 80.48])}
+1409 1687 {'mean_speed': 45, 'name': 2673, 'time': 24.48, 'length': 306.04, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([73.45, 73.45, 73.45, 73.45, 73.45])}
+1409 69 {'mean_speed': 36.96, 'name': 3238, 'time': 21.21, 'length': 217.72, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([52.25, 52.25, 52.25, 52.25, 52.25])}
+1409 1318 {'mean_speed': 34.45, 'name': 5502, 'time': 54.92, 'length': 525.52, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([126.12, 126.12, 126.12, 126.12, 126.12])}
+1672 1696 {'mean_speed': 34.17, 'name': 2952, 'time': 24.95, 'length': 236.81, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([56.83, 56.83, 56.83, 56.83, 56.83])}
+1672 69 {'mean_speed': 33.03, 'name': 3239, 'time': 59.22, 'length': 543.33, 'hist_speed': array([0.7, 0. , 0.2, 0.1]), 'stochastic_time': array([130.4, 130.4, 130.4, 130.4, 130.4])}
+1672 364 {'mean_speed': 33.27, 'name': 3944, 'time': 46.9, 'length': 433.48, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([104.03, 104.03, 104.03, 104.03, 104.03])}
+1672 1318 {'mean_speed': 28.63, 'name': 5501, 'time': 30.26, 'length': 240.68, 'hist_speed': array([0. , 0.9, 0. , 0.1]), 'stochastic_time': array([57.76, 57.76, 57.76, 57.76, 57.76])}
+1627 69 {'mean_speed': 38.06, 'name': 3240, 'time': 40.97, 'length': 433.09, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([103.94, 103.94, 103.94, 103.94, 103.94])}
+1627 865 {'mean_speed': 38.24, 'name': 4918, 'time': 35.69, 'length': 379.08, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([90.98, 90.98, 90.98, 90.98, 90.98])}
+1627 872 {'mean_speed': 35.28, 'name': 4935, 'time': 58.32, 'length': 571.51, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([137.16, 137.16, 137.16, 137.16, 137.16])}
+1627 893 {'mean_speed': 39.92, 'name': 4970, 'time': 17.0, 'length': 188.53, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([45.25, 45.25, 45.25, 45.25, 45.25])}
+991 1696 {'mean_speed': 41.82, 'name': 2168, 'time': 46.0, 'length': 534.41, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([128.26, 128.26, 128.26, 128.26, 128.26])}
+991 1169 {'mean_speed': 39.2, 'name': 2169, 'time': 23.83, 'length': 259.52, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([62.28, 62.28, 62.28, 62.28, 62.28])}
+991 1567 {'mean_speed': 35.06, 'name': 2170, 'time': 42.77, 'length': 416.49, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([99.96, 99.96, 99.96, 99.96, 99.96])}
+991 69 {'mean_speed': 45, 'name': 3241, 'time': 26.83, 'length': 335.35, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([80.48, 80.48, 80.48, 80.48, 80.48])}
+972 86 {'mean_speed': 25.65, 'name': 3288, 'time': 24.53, 'length': 174.8, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([41.95, 41.95, 41.95, 41.95, 41.95])}
+972 142 {'mean_speed': 33.3, 'name': 3445, 'time': 26.55, 'length': 245.58, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([58.94, 58.94, 58.94, 58.94, 58.94])}
+212 1000 {'mean_speed': 31.15, 'name': 579, 'time': 29.77, 'length': 257.57, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([61.82, 61.82, 61.82, 61.82, 61.82])}
+212 86 {'mean_speed': 27.13, 'name': 3289, 'time': 58.89, 'length': 443.81, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([106.51, 106.51, 106.51, 106.51, 106.51])}
+97 1607 {'mean_speed': 30.76, 'name': 273, 'time': 35.26, 'length': 301.31, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([72.31, 72.31, 72.31, 72.31, 72.31])}
+97 1012 {'mean_speed': 30.53, 'name': 274, 'time': 31.69, 'length': 268.75, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([64.5, 64.5, 64.5, 64.5, 64.5])}
+97 1477 {'mean_speed': 19.84, 'name': 275, 'time': 43.19, 'length': 238.05, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([57.13, 57.13, 57.13, 57.13, 57.13])}
+97 1377 {'mean_speed': 26.91, 'name': 276, 'time': 38.84, 'length': 290.32, 'hist_speed': array([0.1, 0.3, 0.5, 0.1]), 'stochastic_time': array([69.68, 69.68, 69.68, 69.68, 69.68])}
+1607 97 {'mean_speed': 28.92, 'name': 3322, 'time': 37.51, 'length': 301.31, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([72.31, 72.31, 72.31, 72.31, 72.31])}
+1607 772 {'mean_speed': 31.97, 'name': 4752, 'time': 27.96, 'length': 248.3, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([59.59, 59.59, 59.59, 59.59, 59.59])}
+1607 1057 {'mean_speed': 28.9, 'name': 5209, 'time': 33.97, 'length': 272.71, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([65.45, 65.45, 65.45, 65.45, 65.45])}
+1012 1057 {'mean_speed': 35.41, 'name': 2203, 'time': 30.65, 'length': 301.44, 'hist_speed': array([0.5, 0.4, 0.1, 0. ]), 'stochastic_time': array([72.34, 72.34, 72.34, 72.34, 72.34])}
+1012 97 {'mean_speed': 28.42, 'name': 3323, 'time': 34.04, 'length': 268.75, 'hist_speed': array([0.1, 0.5, 0.3, 0.1]), 'stochastic_time': array([64.5, 64.5, 64.5, 64.5, 64.5])}
+1012 638 {'mean_speed': 33.89, 'name': 4533, 'time': 30.54, 'length': 287.53, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([69.01, 69.01, 69.01, 69.01, 69.01])}
+1477 97 {'mean_speed': 28.99, 'name': 3324, 'time': 29.56, 'length': 238.05, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([57.13, 57.13, 57.13, 57.13, 57.13])}
+1477 637 {'mean_speed': 29.72, 'name': 4531, 'time': 40.18, 'length': 331.68, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([79.6, 79.6, 79.6, 79.6, 79.6])}
+1477 772 {'mean_speed': 28.12, 'name': 4753, 'time': 38.94, 'length': 304.14, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([72.99, 72.99, 72.99, 72.99, 72.99])}
+1477 1241 {'mean_speed': 29.83, 'name': 5416, 'time': 34.99, 'length': 289.9, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([69.57, 69.57, 69.57, 69.57, 69.57])}
+1377 97 {'mean_speed': 31.61, 'name': 3325, 'time': 33.06, 'length': 290.32, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([69.68, 69.68, 69.68, 69.68, 69.68])}
+1377 638 {'mean_speed': 34.22, 'name': 4535, 'time': 25.42, 'length': 241.64, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([57.99, 57.99, 57.99, 57.99, 57.99])}
+1377 1241 {'mean_speed': 35.51, 'name': 5417, 'time': 27.0, 'length': 266.34, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([63.92, 63.92, 63.92, 63.92, 63.92])}
+110 708 {'mean_speed': 45, 'name': 309, 'time': 23.59, 'length': 294.88, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([70.77, 70.77, 70.77, 70.77, 70.77])}
+110 124 {'mean_speed': 40.45, 'name': 310, 'time': 34.07, 'length': 382.84, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([91.88, 91.88, 91.88, 91.88, 91.88])}
+110 1298 {'mean_speed': 45, 'name': 312, 'time': 82.67, 'length': 1033.33, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([248., 248., 248., 248., 248.])}
+708 110 {'mean_speed': 31.17, 'name': 3358, 'time': 34.06, 'length': 294.88, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([70.77, 70.77, 70.77, 70.77, 70.77])}
+708 637 {'mean_speed': 37.77, 'name': 4532, 'time': 36.59, 'length': 383.9, 'hist_speed': array([0.7, 0.2, 0.1, 0. ]), 'stochastic_time': array([92.13, 92.13, 92.13, 92.13, 92.13])}
+124 637 {'mean_speed': 27.65, 'name': 348, 'time': 37.83, 'length': 290.59, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([69.74, 69.74, 69.74, 69.74, 69.74])}
+124 1241 {'mean_speed': 39.52, 'name': 349, 'time': 28.51, 'length': 312.93, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([75.1, 75.1, 75.1, 75.1, 75.1])}
+124 886 {'mean_speed': 34.1, 'name': 350, 'time': 25.24, 'length': 239.1, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([57.38, 57.38, 57.38, 57.38, 57.38])}
+124 110 {'mean_speed': 45, 'name': 3359, 'time': 30.63, 'length': 382.84, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([91.88, 91.88, 91.88, 91.88, 91.88])}
+1298 110 {'mean_speed': 45, 'name': 3361, 'time': 82.67, 'length': 1033.33, 'hist_speed': array([0.6, 0. , 0.4, 0. ]), 'stochastic_time': array([248., 248., 248., 248., 248.])}
+1298 865 {'mean_speed': 34.83, 'name': 4919, 'time': 45.6, 'length': 441.17, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([105.88, 105.88, 105.88, 105.88, 105.88])}
+111 1869 {'mean_speed': 40.59, 'name': 313, 'time': 33.46, 'length': 377.28, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([90.55, 90.55, 90.55, 90.55, 90.55])}
+111 733 {'mean_speed': 17.75, 'name': 314, 'time': 19.68, 'length': 97.03, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([23.29, 23.29, 23.29, 23.29, 23.29])}
+111 1096 {'mean_speed': 29.31, 'name': 315, 'time': 20.82, 'length': 169.53, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([40.69, 40.69, 40.69, 40.69, 40.69])}
+1869 111 {'mean_speed': 33.64, 'name': 3362, 'time': 40.37, 'length': 377.28, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([90.55, 90.55, 90.55, 90.55, 90.55])}
+1869 1225 {'mean_speed': 29.67, 'name': 5396, 'time': 24.14, 'length': 198.92, 'hist_speed': array([0.3, 0.5, 0.1, 0.1]), 'stochastic_time': array([47.74, 47.74, 47.74, 47.74, 47.74])}
+733 1759 {'mean_speed': 15.36, 'name': 1710, 'time': 42.4, 'length': 180.9, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([43.41, 43.41, 43.41, 43.41, 43.41])}
+1096 1468 {'mean_speed': 34.32, 'name': 2309, 'time': 19.3, 'length': 183.98, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([44.15, 44.15, 44.15, 44.15, 44.15])}
+1096 1582 {'mean_speed': 29.8, 'name': 2310, 'time': 56.4, 'length': 466.84, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([112.04, 112.04, 112.04, 112.04, 112.04])}
+1096 111 {'mean_speed': 35.49, 'name': 3363, 'time': 17.2, 'length': 169.53, 'hist_speed': array([0.5, 0.4, 0.1, 0. ]), 'stochastic_time': array([40.69, 40.69, 40.69, 40.69, 40.69])}
+1096 984 {'mean_speed': 28.99, 'name': 5115, 'time': 47.02, 'length': 378.68, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([90.88, 90.88, 90.88, 90.88, 90.88])}
+637 716 {'mean_speed': 36.1, 'name': 1529, 'time': 30.03, 'length': 301.16, 'hist_speed': array([0.7, 0. , 0.3, 0. ]), 'stochastic_time': array([72.28, 72.28, 72.28, 72.28, 72.28])}
+637 1477 {'mean_speed': 25.47, 'name': 1530, 'time': 46.88, 'length': 331.68, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([79.6, 79.6, 79.6, 79.6, 79.6])}
+637 708 {'mean_speed': 17.79, 'name': 1531, 'time': 77.69, 'length': 383.9, 'hist_speed': array([0. , 0.1, 0.7, 0.2]), 'stochastic_time': array([92.13, 92.13, 92.13, 92.13, 92.13])}
+637 124 {'mean_speed': 39.3, 'name': 3394, 'time': 26.62, 'length': 290.59, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([69.74, 69.74, 69.74, 69.74, 69.74])}
+1241 1477 {'mean_speed': 29.5, 'name': 2483, 'time': 35.38, 'length': 289.9, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([69.57, 69.57, 69.57, 69.57, 69.57])}
+1241 1377 {'mean_speed': 34.05, 'name': 2484, 'time': 28.16, 'length': 266.34, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([63.92, 63.92, 63.92, 63.92, 63.92])}
+1241 124 {'mean_speed': 40.1, 'name': 3395, 'time': 28.09, 'length': 312.93, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([75.1, 75.1, 75.1, 75.1, 75.1])}
+1241 970 {'mean_speed': 34.06, 'name': 5094, 'time': 24.44, 'length': 231.25, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([55.5, 55.5, 55.5, 55.5, 55.5])}
+886 970 {'mean_speed': 40.03, 'name': 1987, 'time': 30.31, 'length': 337.05, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([80.89, 80.89, 80.89, 80.89, 80.89])}
+886 124 {'mean_speed': 40.59, 'name': 3396, 'time': 21.21, 'length': 239.1, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([57.38, 57.38, 57.38, 57.38, 57.38])}
+886 153 {'mean_speed': 34.1, 'name': 3473, 'time': 22.99, 'length': 217.79, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([52.27, 52.27, 52.27, 52.27, 52.27])}
+125 584 {'mean_speed': 19.39, 'name': 351, 'time': 66.84, 'length': 359.99, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([86.4, 86.4, 86.4, 86.4, 86.4])}
+125 1385 {'mean_speed': 36.51, 'name': 353, 'time': 26.76, 'length': 271.35, 'hist_speed': array([0.6, 0.3, 0. , 0.1]), 'stochastic_time': array([65.12, 65.12, 65.12, 65.12, 65.12])}
+584 1061 {'mean_speed': 32.28, 'name': 1422, 'time': 36.37, 'length': 326.12, 'hist_speed': array([0.3, 0.4, 0.3, 0. ]), 'stochastic_time': array([78.27, 78.27, 78.27, 78.27, 78.27])}
+584 956 {'mean_speed': 24.52, 'name': 1423, 'time': 33.63, 'length': 229.03, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([54.97, 54.97, 54.97, 54.97, 54.97])}
+584 1127 {'mean_speed': 39.97, 'name': 1424, 'time': 49.83, 'length': 553.21, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([132.77, 132.77, 132.77, 132.77, 132.77])}
+584 125 {'mean_speed': 32.77, 'name': 3397, 'time': 39.55, 'length': 359.99, 'hist_speed': array([0.3, 0.6, 0.1, 0. ]), 'stochastic_time': array([86.4, 86.4, 86.4, 86.4, 86.4])}
+1385 125 {'mean_speed': 34.19, 'name': 3399, 'time': 28.57, 'length': 271.35, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([65.12, 65.12, 65.12, 65.12, 65.12])}
+1385 430 {'mean_speed': 32.57, 'name': 4080, 'time': 27.62, 'length': 249.91, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([59.98, 59.98, 59.98, 59.98, 59.98])}
+1385 1323 {'mean_speed': 29.61, 'name': 5507, 'time': 32.83, 'length': 270.01, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([64.8, 64.8, 64.8, 64.8, 64.8])}
+130 1629 {'mean_speed': 37.08, 'name': 367, 'time': 18.65, 'length': 192.1, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([46.1, 46.1, 46.1, 46.1, 46.1])}
+130 1281 {'mean_speed': 43.61, 'name': 370, 'time': 27.1, 'length': 328.33, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([78.8, 78.8, 78.8, 78.8, 78.8])}
+1629 1836 {'mean_speed': 33.61, 'name': 2919, 'time': 28.07, 'length': 262.06, 'hist_speed': array([0.5, 0.1, 0.4, 0. ]), 'stochastic_time': array([62.89, 62.89, 62.89, 62.89, 62.89])}
+1629 130 {'mean_speed': 30.8, 'name': 3413, 'time': 22.45, 'length': 192.1, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([46.1, 46.1, 46.1, 46.1, 46.1])}
+1629 1166 {'mean_speed': 30.96, 'name': 5328, 'time': 18.18, 'length': 156.35, 'hist_speed': array([0.5, 0.2, 0.3, 0. ]), 'stochastic_time': array([37.52, 37.52, 37.52, 37.52, 37.52])}
+1760 130 {'mean_speed': 26.4, 'name': 369, 'time': 23.5, 'length': 172.32, 'hist_speed': array([0. , 0.6, 0.3, 0.1]), 'stochastic_time': array([41.36, 41.36, 41.36, 41.36, 41.36])}
+1760 1166 {'mean_speed': 26.75, 'name': 2391, 'time': 25.24, 'length': 187.57, 'hist_speed': array([0. , 0.7, 0.2, 0.1]), 'stochastic_time': array([45.02, 45.02, 45.02, 45.02, 45.02])}
+1281 1575 {'mean_speed': 26.25, 'name': 2531, 'time': 30.61, 'length': 223.17, 'hist_speed': array([0.1, 0.2, 0.7, 0. ]), 'stochastic_time': array([53.56, 53.56, 53.56, 53.56, 53.56])}
+1281 130 {'mean_speed': 40.52, 'name': 3415, 'time': 29.17, 'length': 328.33, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([78.8, 78.8, 78.8, 78.8, 78.8])}
+1281 806 {'mean_speed': 26.72, 'name': 4809, 'time': 22.89, 'length': 169.86, 'hist_speed': array([0.1, 0.4, 0.5, 0. ]), 'stochastic_time': array([40.77, 40.77, 40.77, 40.77, 40.77])}
+139 725 {'mean_speed': 16.71, 'name': 394, 'time': 17.79, 'length': 82.58, 'hist_speed': array([0. , 0. , 0.6, 0.4]), 'stochastic_time': array([19.82, 19.82, 19.82, 19.82, 19.82])}
+139 1612 {'mean_speed': 24.08, 'name': 396, 'time': 47.3, 'length': 316.38, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([75.93, 75.93, 75.93, 75.93, 75.93])}
+725 1690 {'mean_speed': 43.51, 'name': 1696, 'time': 24.82, 'length': 299.95, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([71.99, 71.99, 71.99, 71.99, 71.99])}
+725 364 {'mean_speed': 19.26, 'name': 3943, 'time': 56.25, 'length': 300.93, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([72.22, 72.22, 72.22, 72.22, 72.22])}
+1600 139 {'mean_speed': 22.8, 'name': 395, 'time': 31.16, 'length': 197.38, 'hist_speed': array([0. , 0. , 0.9, 0.1]), 'stochastic_time': array([47.37, 47.37, 47.37, 47.37, 47.37])}
+1600 1444 {'mean_speed': 33.83, 'name': 5632, 'time': 35.47, 'length': 333.37, 'hist_speed': array([0.5, 0.4, 0. , 0.1]), 'stochastic_time': array([80.01, 80.01, 80.01, 80.01, 80.01])}
+1600 1465 {'mean_speed': 30.62, 'name': 5654, 'time': 43.96, 'length': 373.9, 'hist_speed': array([0.2, 0.7, 0.1, 0. ]), 'stochastic_time': array([89.74, 89.74, 89.74, 89.74, 89.74])}
+1612 1696 {'mean_speed': 22.4, 'name': 2908, 'time': 74.47, 'length': 463.35, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([111.2, 111.2, 111.2, 111.2, 111.2])}
+1612 139 {'mean_speed': 23.06, 'name': 3439, 'time': 49.39, 'length': 316.38, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([75.93, 75.93, 75.93, 75.93, 75.93])}
+1612 364 {'mean_speed': 27.26, 'name': 3945, 'time': 23.75, 'length': 179.85, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([43.16, 43.16, 43.16, 43.16, 43.16])}
+1612 1465 {'mean_speed': 25.89, 'name': 5653, 'time': 23.38, 'length': 168.12, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([40.35, 40.35, 40.35, 40.35, 40.35])}
+604 1049 {'mean_speed': 28.56, 'name': 1464, 'time': 17.6, 'length': 139.59, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([33.5, 33.5, 33.5, 33.5, 33.5])}
+604 142 {'mean_speed': 23.4, 'name': 3446, 'time': 59.53, 'length': 386.96, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([92.87, 92.87, 92.87, 92.87, 92.87])}
+604 342 {'mean_speed': 37.26, 'name': 3899, 'time': 14.23, 'length': 147.23, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([35.34, 35.34, 35.34, 35.34, 35.34])}
+604 442 {'mean_speed': 30.78, 'name': 4110, 'time': 22.18, 'length': 189.62, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([45.51, 45.51, 45.51, 45.51, 45.51])}
+790 874 {'mean_speed': 32.33, 'name': 1803, 'time': 45.03, 'length': 404.41, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([97.06, 97.06, 97.06, 97.06, 97.06])}
+790 142 {'mean_speed': 31.75, 'name': 3447, 'time': 35.19, 'length': 310.34, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([74.48, 74.48, 74.48, 74.48, 74.48])}
+790 667 {'mean_speed': 31.41, 'name': 4588, 'time': 38.38, 'length': 334.9, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([80.38, 80.38, 80.38, 80.38, 80.38])}
+790 727 {'mean_speed': 31.82, 'name': 4690, 'time': 21.04, 'length': 186.01, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([44.64, 44.64, 44.64, 44.64, 44.64])}
+153 886 {'mean_speed': 40.98, 'name': 432, 'time': 19.13, 'length': 217.79, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([52.27, 52.27, 52.27, 52.27, 52.27])}
+153 872 {'mean_speed': 28.7, 'name': 433, 'time': 42.06, 'length': 335.35, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([80.48, 80.48, 80.48, 80.48, 80.48])}
+153 865 {'mean_speed': 38.4, 'name': 434, 'time': 55.34, 'length': 590.27, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([141.66, 141.66, 141.66, 141.66, 141.66])}
+872 970 {'mean_speed': 24.37, 'name': 1962, 'time': 39.74, 'length': 269.01, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([64.56, 64.56, 64.56, 64.56, 64.56])}
+872 1687 {'mean_speed': 37.88, 'name': 1963, 'time': 44.77, 'length': 471.12, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([113.07, 113.07, 113.07, 113.07, 113.07])}
+872 1627 {'mean_speed': 45, 'name': 1964, 'time': 45.72, 'length': 571.51, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([137.16, 137.16, 137.16, 137.16, 137.16])}
+872 153 {'mean_speed': 39.18, 'name': 3474, 'time': 30.81, 'length': 335.35, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([80.48, 80.48, 80.48, 80.48, 80.48])}
+865 1627 {'mean_speed': 33.52, 'name': 1947, 'time': 40.71, 'length': 379.08, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([90.98, 90.98, 90.98, 90.98, 90.98])}
+865 1298 {'mean_speed': 20.78, 'name': 1948, 'time': 76.43, 'length': 441.17, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([105.88, 105.88, 105.88, 105.88, 105.88])}
+865 1258 {'mean_speed': 45, 'name': 1949, 'time': 19.91, 'length': 248.82, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([59.72, 59.72, 59.72, 59.72, 59.72])}
+865 153 {'mean_speed': 33.58, 'name': 3475, 'time': 63.28, 'length': 590.27, 'hist_speed': array([0.7, 0.2, 0.1, 0. ]), 'stochastic_time': array([141.66, 141.66, 141.66, 141.66, 141.66])}
+158 1551 {'mean_speed': 23.96, 'name': 445, 'time': 28.93, 'length': 192.54, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([46.21, 46.21, 46.21, 46.21, 46.21])}
+158 1752 {'mean_speed': 41.03, 'name': 446, 'time': 31.55, 'length': 359.63, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([86.31, 86.31, 86.31, 86.31, 86.31])}
+158 1196 {'mean_speed': 42.24, 'name': 447, 'time': 16.61, 'length': 194.84, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([46.76, 46.76, 46.76, 46.76, 46.76])}
+158 1232 {'mean_speed': 15.25, 'name': 448, 'time': 45.4, 'length': 192.32, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([46.16, 46.16, 46.16, 46.16, 46.16])}
+1551 158 {'mean_speed': 31.1, 'name': 3486, 'time': 22.29, 'length': 192.54, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([46.21, 46.21, 46.21, 46.21, 46.21])}
+1551 186 {'mean_speed': 25.07, 'name': 3561, 'time': 51.24, 'length': 356.83, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([85.64, 85.64, 85.64, 85.64, 85.64])}
+1551 946 {'mean_speed': 25.03, 'name': 5057, 'time': 26.53, 'length': 184.48, 'hist_speed': array([0. , 0.9, 0. , 0.1]), 'stochastic_time': array([44.27, 44.27, 44.27, 44.27, 44.27])}
+1551 1331 {'mean_speed': 25.56, 'name': 5517, 'time': 25.91, 'length': 183.97, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([44.15, 44.15, 44.15, 44.15, 44.15])}
+1752 158 {'mean_speed': 29.41, 'name': 3487, 'time': 44.02, 'length': 359.63, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([86.31, 86.31, 86.31, 86.31, 86.31])}
+1752 186 {'mean_speed': 28.86, 'name': 3562, 'time': 23.28, 'length': 186.65, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([44.8, 44.8, 44.8, 44.8, 44.8])}
+1752 1271 {'mean_speed': 30.69, 'name': 5447, 'time': 23.3, 'length': 198.6, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([47.66, 47.66, 47.66, 47.66, 47.66])}
+1752 1704 {'mean_speed': 29.53, 'name': 5871, 'time': 22.89, 'length': 187.74, 'hist_speed': array([0.1, 0.8, 0. , 0.1]), 'stochastic_time': array([45.06, 45.06, 45.06, 45.06, 45.06])}
+1196 1778 {'mean_speed': 41.68, 'name': 2427, 'time': 16.37, 'length': 189.49, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([45.48, 45.48, 45.48, 45.48, 45.48])}
+1196 1698 {'mean_speed': 29.03, 'name': 2428, 'time': 25.73, 'length': 207.47, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([49.79, 49.79, 49.79, 49.79, 49.79])}
+1196 158 {'mean_speed': 28.19, 'name': 3488, 'time': 24.88, 'length': 194.84, 'hist_speed': array([0.2, 0.5, 0.1, 0.2]), 'stochastic_time': array([46.76, 46.76, 46.76, 46.76, 46.76])}
+1196 946 {'mean_speed': 30.28, 'name': 5058, 'time': 20.92, 'length': 175.99, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([42.24, 42.24, 42.24, 42.24, 42.24])}
+1232 1271 {'mean_speed': 26.04, 'name': 2475, 'time': 50.49, 'length': 365.24, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([87.66, 87.66, 87.66, 87.66, 87.66])}
+1232 1698 {'mean_speed': 18.58, 'name': 2476, 'time': 38.75, 'length': 200.01, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([48., 48., 48., 48., 48.])}
+1232 1644 {'mean_speed': 22.18, 'name': 2477, 'time': 28.97, 'length': 178.47, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([42.83, 42.83, 42.83, 42.83, 42.83])}
+1232 158 {'mean_speed': 34.02, 'name': 3489, 'time': 20.35, 'length': 192.32, 'hist_speed': array([0.4, 0.5, 0.1, 0. ]), 'stochastic_time': array([46.16, 46.16, 46.16, 46.16, 46.16])}
+172 1738 {'mean_speed': 45, 'name': 481, 'time': 9.8, 'length': 122.52, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([29.41, 29.41, 29.41, 29.41, 29.41])}
+172 1856 {'mean_speed': 16.77, 'name': 483, 'time': 15.05, 'length': 70.1, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([16.82, 16.82, 16.82, 16.82, 16.82])}
+1738 1756 {'mean_speed': 45, 'name': 2996, 'time': 21.23, 'length': 265.33, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([63.68, 63.68, 63.68, 63.68, 63.68])}
+1738 1840 {'mean_speed': 30.74, 'name': 2998, 'time': 42.16, 'length': 359.98, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([86.39, 86.39, 86.39, 86.39, 86.39])}
+1738 172 {'mean_speed': 23.75, 'name': 3522, 'time': 18.57, 'length': 122.52, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([29.41, 29.41, 29.41, 29.41, 29.41])}
+1856 172 {'mean_speed': 33.46, 'name': 3523, 'time': 7.54, 'length': 70.1, 'hist_speed': array([0.4, 0.5, 0.1, 0. ]), 'stochastic_time': array([16.82, 16.82, 16.82, 16.82, 16.82])}
+1856 615 {'mean_speed': 27.9, 'name': 4488, 'time': 65.33, 'length': 506.29, 'hist_speed': array([0.1, 0.6, 0.3, 0. ]), 'stochastic_time': array([121.51, 121.51, 121.51, 121.51, 121.51])}
+1856 1412 {'mean_speed': 29.33, 'name': 5596, 'time': 36.49, 'length': 297.29, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([71.35, 71.35, 71.35, 71.35, 71.35])}
+1856 1467 {'mean_speed': 28.81, 'name': 5658, 'time': 38.72, 'length': 309.86, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([74.37, 74.37, 74.37, 74.37, 74.37])}
+855 172 {'mean_speed': 26.5, 'name': 484, 'time': 51.83, 'length': 381.55, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([91.57, 91.57, 91.57, 91.57, 91.57])}
+855 1858 {'mean_speed': 24.71, 'name': 1924, 'time': 14.53, 'length': 99.71, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([23.93, 23.93, 23.93, 23.93, 23.93])}
+855 1412 {'mean_speed': 30.58, 'name': 1925, 'time': 9.24, 'length': 78.46, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([18.83, 18.83, 18.83, 18.83, 18.83])}
+855 1730 {'mean_speed': 36.2, 'name': 1926, 'time': 22.71, 'length': 228.34, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([54.8, 54.8, 54.8, 54.8, 54.8])}
+186 1515 {'mean_speed': 24.27, 'name': 520, 'time': 25.09, 'length': 169.14, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([40.59, 40.59, 40.59, 40.59, 40.59])}
+186 1710 {'mean_speed': 17.22, 'name': 521, 'time': 40.45, 'length': 193.5, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([46.44, 46.44, 46.44, 46.44, 46.44])}
+186 1551 {'mean_speed': 25.43, 'name': 522, 'time': 50.51, 'length': 356.83, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([85.64, 85.64, 85.64, 85.64, 85.64])}
+186 1752 {'mean_speed': 33.63, 'name': 523, 'time': 19.98, 'length': 186.65, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([44.8, 44.8, 44.8, 44.8, 44.8])}
+1515 1626 {'mean_speed': 24.98, 'name': 2811, 'time': 44.51, 'length': 308.87, 'hist_speed': array([0.1, 0.4, 0.4, 0.1]), 'stochastic_time': array([74.13, 74.13, 74.13, 74.13, 74.13])}
+1515 1605 {'mean_speed': 28.46, 'name': 2812, 'time': 23.3, 'length': 184.24, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([44.22, 44.22, 44.22, 44.22, 44.22])}
+1515 186 {'mean_speed': 28.11, 'name': 3559, 'time': 21.66, 'length': 169.14, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([40.59, 40.59, 40.59, 40.59, 40.59])}
+1515 1331 {'mean_speed': 22.92, 'name': 5515, 'time': 57.02, 'length': 363.02, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([87.12, 87.12, 87.12, 87.12, 87.12])}
+1710 186 {'mean_speed': 27.61, 'name': 3560, 'time': 25.23, 'length': 193.5, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([46.44, 46.44, 46.44, 46.44, 46.44])}
+1710 1184 {'mean_speed': 23.55, 'name': 5350, 'time': 30.37, 'length': 198.67, 'hist_speed': array([0. , 0.3, 0.6, 0.1]), 'stochastic_time': array([47.68, 47.68, 47.68, 47.68, 47.68])}
+1710 1605 {'mean_speed': 26.13, 'name': 5804, 'time': 23.28, 'length': 169.01, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([40.56, 40.56, 40.56, 40.56, 40.56])}
+1710 1704 {'mean_speed': 23.03, 'name': 5870, 'time': 31.78, 'length': 203.28, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([48.79, 48.79, 48.79, 48.79, 48.79])}
+1000 212 {'mean_speed': 32.71, 'name': 3617, 'time': 28.35, 'length': 257.57, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([61.82, 61.82, 61.82, 61.82, 61.82])}
+1000 559 {'mean_speed': 35.55, 'name': 4382, 'time': 33.89, 'length': 334.63, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([80.31, 80.31, 80.31, 80.31, 80.31])}
+1000 832 {'mean_speed': 30.44, 'name': 4856, 'time': 28.25, 'length': 238.84, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([57.32, 57.32, 57.32, 57.32, 57.32])}
+1463 226 {'mean_speed': 29.68, 'name': 612, 'time': 21.79, 'length': 179.69, 'hist_speed': array([0.2, 0.6, 0.2, 0. ]), 'stochastic_time': array([43.12, 43.12, 43.12, 43.12, 43.12])}
+1463 1715 {'mean_speed': 31.6, 'name': 2741, 'time': 26.13, 'length': 229.33, 'hist_speed': array([0.6, 0. , 0.4, 0. ]), 'stochastic_time': array([55.04, 55.04, 55.04, 55.04, 55.04])}
+226 1043 {'mean_speed': 27.0, 'name': 613, 'time': 7.35, 'length': 55.16, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([13.24, 13.24, 13.24, 13.24, 13.24])}
+226 1321 {'mean_speed': 35.29, 'name': 614, 'time': 17.44, 'length': 171.01, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([41.04, 41.04, 41.04, 41.04, 41.04])}
+1043 1655 {'mean_speed': 28.91, 'name': 2241, 'time': 33.07, 'length': 265.55, 'hist_speed': array([0.3, 0.5, 0.1, 0.1]), 'stochastic_time': array([63.73, 63.73, 63.73, 63.73, 63.73])}
+1043 1757 {'mean_speed': 31.21, 'name': 2242, 'time': 32.75, 'length': 283.93, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([68.14, 68.14, 68.14, 68.14, 68.14])}
+1043 226 {'mean_speed': 35.29, 'name': 3650, 'time': 5.63, 'length': 55.16, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([13.24, 13.24, 13.24, 13.24, 13.24])}
+1321 1346 {'mean_speed': 28.13, 'name': 2580, 'time': 17.01, 'length': 132.93, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([31.9, 31.9, 31.9, 31.9, 31.9])}
+1321 1360 {'mean_speed': 36.6, 'name': 2581, 'time': 24.15, 'length': 245.53, 'hist_speed': array([0.5, 0.4, 0.1, 0. ]), 'stochastic_time': array([58.93, 58.93, 58.93, 58.93, 58.93])}
+1321 226 {'mean_speed': 30.76, 'name': 3651, 'time': 20.01, 'length': 171.01, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([41.04, 41.04, 41.04, 41.04, 41.04])}
+1321 1256 {'mean_speed': 29.99, 'name': 5434, 'time': 45.38, 'length': 378.02, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([90.72, 90.72, 90.72, 90.72, 90.72])}
+227 1608 {'mean_speed': 18.33, 'name': 615, 'time': 61.96, 'length': 315.47, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([75.71, 75.71, 75.71, 75.71, 75.71])}
+227 806 {'mean_speed': 24.24, 'name': 616, 'time': 27.54, 'length': 185.43, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([44.5, 44.5, 44.5, 44.5, 44.5])}
+227 1276 {'mean_speed': 19.85, 'name': 617, 'time': 38.69, 'length': 213.31, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([51.2, 51.2, 51.2, 51.2, 51.2])}
+227 1184 {'mean_speed': 30.3, 'name': 618, 'time': 28.36, 'length': 238.67, 'hist_speed': array([0.3, 0.4, 0.3, 0. ]), 'stochastic_time': array([57.28, 57.28, 57.28, 57.28, 57.28])}
+1608 1760 {'mean_speed': 18.21, 'name': 2904, 'time': 37.52, 'length': 189.8, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([45.55, 45.55, 45.55, 45.55, 45.55])}
+1608 227 {'mean_speed': 23.05, 'name': 3652, 'time': 49.27, 'length': 315.47, 'hist_speed': array([0. , 0.4, 0.5, 0.1]), 'stochastic_time': array([75.71, 75.71, 75.71, 75.71, 75.71])}
+806 1760 {'mean_speed': 22.38, 'name': 1830, 'time': 50.76, 'length': 315.56, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([75.73, 75.73, 75.73, 75.73, 75.73])}
+806 1281 {'mean_speed': 31.2, 'name': 1831, 'time': 19.6, 'length': 169.86, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([40.77, 40.77, 40.77, 40.77, 40.77])}
+806 227 {'mean_speed': 21.25, 'name': 3653, 'time': 31.41, 'length': 185.43, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([44.5, 44.5, 44.5, 44.5, 44.5])}
+1276 1796 {'mean_speed': 25.27, 'name': 2524, 'time': 46.5, 'length': 326.39, 'hist_speed': array([0.1, 0.4, 0.5, 0. ]), 'stochastic_time': array([78.33, 78.33, 78.33, 78.33, 78.33])}
+1276 1605 {'mean_speed': 21.16, 'name': 2525, 'time': 10.19, 'length': 59.87, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([14.37, 14.37, 14.37, 14.37, 14.37])}
+1276 227 {'mean_speed': 25.12, 'name': 3654, 'time': 30.57, 'length': 213.31, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([51.2, 51.2, 51.2, 51.2, 51.2])}
+1184 1710 {'mean_speed': 31.46, 'name': 2412, 'time': 22.73, 'length': 198.67, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([47.68, 47.68, 47.68, 47.68, 47.68])}
+1184 227 {'mean_speed': 22.58, 'name': 3655, 'time': 38.05, 'length': 238.67, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([57.28, 57.28, 57.28, 57.28, 57.28])}
+1184 713 {'mean_speed': 26.47, 'name': 4670, 'time': 25.34, 'length': 186.34, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([44.72, 44.72, 44.72, 44.72, 44.72])}
+1184 904 {'mean_speed': 30.77, 'name': 4991, 'time': 22.92, 'length': 195.89, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([47.01, 47.01, 47.01, 47.01, 47.01])}
+266 953 {'mean_speed': 26.94, 'name': 710, 'time': 13.48, 'length': 100.89, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([24.21, 24.21, 24.21, 24.21, 24.21])}
+266 1836 {'mean_speed': 44.15, 'name': 711, 'time': 27.24, 'length': 334.04, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([80.17, 80.17, 80.17, 80.17, 80.17])}
+266 651 {'mean_speed': 27.58, 'name': 712, 'time': 23.51, 'length': 180.13, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([43.23, 43.23, 43.23, 43.23, 43.23])}
+953 1736 {'mean_speed': 26.82, 'name': 2103, 'time': 78.73, 'length': 586.56, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([140.77, 140.77, 140.77, 140.77, 140.77])}
+953 1578 {'mean_speed': 30.17, 'name': 2104, 'time': 20.63, 'length': 172.89, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([41.49, 41.49, 41.49, 41.49, 41.49])}
+953 266 {'mean_speed': 31.02, 'name': 3744, 'time': 11.71, 'length': 100.89, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([24.21, 24.21, 24.21, 24.21, 24.21])}
+953 588 {'mean_speed': 28.51, 'name': 4440, 'time': 15.52, 'length': 122.92, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([29.5, 29.5, 29.5, 29.5, 29.5])}
+1836 266 {'mean_speed': 32.63, 'name': 3745, 'time': 36.85, 'length': 334.04, 'hist_speed': array([0.3, 0.4, 0.3, 0. ]), 'stochastic_time': array([80.17, 80.17, 80.17, 80.17, 80.17])}
+1836 1629 {'mean_speed': 34.75, 'name': 5817, 'time': 27.15, 'length': 262.06, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([62.89, 62.89, 62.89, 62.89, 62.89])}
+1836 1766 {'mean_speed': 30.46, 'name': 5903, 'time': 67.38, 'length': 570.11, 'hist_speed': array([0.2, 0.7, 0.1, 0. ]), 'stochastic_time': array([136.83, 136.83, 136.83, 136.83, 136.83])}
+651 1578 {'mean_speed': 9.9, 'name': 1561, 'time': 47.17, 'length': 129.72, 'hist_speed': array([0., 0., 0., 1.]), 'stochastic_time': array([31.13, 31.13, 31.13, 31.13, 31.13])}
+651 266 {'mean_speed': 32.95, 'name': 3746, 'time': 19.68, 'length': 180.13, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([43.23, 43.23, 43.23, 43.23, 43.23])}
+278 1841 {'mean_speed': 27.3, 'name': 738, 'time': 64.52, 'length': 489.28, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([117.43, 117.43, 117.43, 117.43, 117.43])}
+278 1568 {'mean_speed': 32.52, 'name': 739, 'time': 25.41, 'length': 229.52, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([55.08, 55.08, 55.08, 55.08, 55.08])}
+278 1572 {'mean_speed': 20.41, 'name': 740, 'time': 75.97, 'length': 430.7, 'hist_speed': array([0. , 0.2, 0.7, 0.1]), 'stochastic_time': array([103.37, 103.37, 103.37, 103.37, 103.37])}
+278 1265 {'mean_speed': 37.29, 'name': 741, 'time': 18.61, 'length': 192.81, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([46.27, 46.27, 46.27, 46.27, 46.27])}
+1841 1859 {'mean_speed': 39.77, 'name': 3040, 'time': 18.98, 'length': 209.68, 'hist_speed': array([0.5, 0.2, 0.3, 0. ]), 'stochastic_time': array([50.32, 50.32, 50.32, 50.32, 50.32])}
+1841 278 {'mean_speed': 27.33, 'name': 3771, 'time': 64.45, 'length': 489.28, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([117.43, 117.43, 117.43, 117.43, 117.43])}
+1841 1445 {'mean_speed': 29.36, 'name': 5634, 'time': 23.99, 'length': 195.68, 'hist_speed': array([0.3, 0.5, 0.1, 0.1]), 'stochastic_time': array([46.96, 46.96, 46.96, 46.96, 46.96])}
+1841 1795 {'mean_speed': 34.88, 'name': 5916, 'time': 36.66, 'length': 355.18, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([85.24, 85.24, 85.24, 85.24, 85.24])}
+1568 1783 {'mean_speed': 45, 'name': 2863, 'time': 29.94, 'length': 374.22, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([89.81, 89.81, 89.81, 89.81, 89.81])}
+1568 1795 {'mean_speed': 39.19, 'name': 2864, 'time': 18.99, 'length': 206.78, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([49.63, 49.63, 49.63, 49.63, 49.63])}
+1568 278 {'mean_speed': 29.72, 'name': 3772, 'time': 27.8, 'length': 229.52, 'hist_speed': array([0.1, 0.7, 0.2, 0. ]), 'stochastic_time': array([55.08, 55.08, 55.08, 55.08, 55.08])}
+1568 917 {'mean_speed': 29.85, 'name': 5017, 'time': 34.39, 'length': 285.13, 'hist_speed': array([0.2, 0.6, 0.2, 0. ]), 'stochastic_time': array([68.43, 68.43, 68.43, 68.43, 68.43])}
+1572 278 {'mean_speed': 26.36, 'name': 3773, 'time': 58.82, 'length': 430.7, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([103.37, 103.37, 103.37, 103.37, 103.37])}
+1572 917 {'mean_speed': 33.93, 'name': 5018, 'time': 30.89, 'length': 291.18, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([69.88, 69.88, 69.88, 69.88, 69.88])}
+1572 1142 {'mean_speed': 22.95, 'name': 5302, 'time': 23.64, 'length': 150.73, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([36.18, 36.18, 36.18, 36.18, 36.18])}
+1265 1894 {'mean_speed': 27.69, 'name': 2511, 'time': 18.07, 'length': 139.02, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([33.36, 33.36, 33.36, 33.36, 33.36])}
+1265 278 {'mean_speed': 28.12, 'name': 3774, 'time': 24.68, 'length': 192.81, 'hist_speed': array([0.1, 0.7, 0.2, 0. ]), 'stochastic_time': array([46.27, 46.27, 46.27, 46.27, 46.27])}
+291 1739 {'mean_speed': 19.93, 'name': 768, 'time': 65.2, 'length': 360.93, 'hist_speed': array([0. , 0.2, 0.7, 0.1]), 'stochastic_time': array([86.62, 86.62, 86.62, 86.62, 86.62])}
+291 1547 {'mean_speed': 45, 'name': 769, 'time': 22.8, 'length': 284.99, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([68.4, 68.4, 68.4, 68.4, 68.4])}
+291 958 {'mean_speed': 45, 'name': 770, 'time': 39.75, 'length': 496.84, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([119.24, 119.24, 119.24, 119.24, 119.24])}
+1739 291 {'mean_speed': 37.44, 'name': 3800, 'time': 34.7, 'length': 360.93, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([86.62, 86.62, 86.62, 86.62, 86.62])}
+1739 1219 {'mean_speed': 32.36, 'name': 5392, 'time': 27.61, 'length': 248.15, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([59.56, 59.56, 59.56, 59.56, 59.56])}
+1739 1721 {'mean_speed': 30.34, 'name': 5883, 'time': 26.57, 'length': 223.95, 'hist_speed': array([0.1, 0.8, 0. , 0.1]), 'stochastic_time': array([53.75, 53.75, 53.75, 53.75, 53.75])}
+1547 291 {'mean_speed': 30.56, 'name': 3801, 'time': 33.57, 'length': 284.99, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([68.4, 68.4, 68.4, 68.4, 68.4])}
+1547 1057 {'mean_speed': 37.0, 'name': 5208, 'time': 23.37, 'length': 240.22, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([57.65, 57.65, 57.65, 57.65, 57.65])}
+1547 1493 {'mean_speed': 33.26, 'name': 5685, 'time': 24.88, 'length': 229.82, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([55.16, 55.16, 55.16, 55.16, 55.16])}
+958 979 {'mean_speed': 33.9, 'name': 2112, 'time': 17.06, 'length': 160.62, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([38.55, 38.55, 38.55, 38.55, 38.55])}
+958 1007 {'mean_speed': 45, 'name': 2113, 'time': 35.59, 'length': 444.84, 'hist_speed': array([0.9, 0. , 0.1, 0. ]), 'stochastic_time': array([106.76, 106.76, 106.76, 106.76, 106.76])}
+958 291 {'mean_speed': 45, 'name': 3802, 'time': 39.75, 'length': 496.84, 'hist_speed': array([0.6, 0.1, 0.3, 0. ]), 'stochastic_time': array([119.24, 119.24, 119.24, 119.24, 119.24])}
+292 1647 {'mean_speed': 21.56, 'name': 771, 'time': 63.46, 'length': 380.04, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([91.21, 91.21, 91.21, 91.21, 91.21])}
+292 1626 {'mean_speed': 22.26, 'name': 772, 'time': 61.67, 'length': 381.31, 'hist_speed': array([0.1, 0.1, 0.8, 0. ]), 'stochastic_time': array([91.51, 91.51, 91.51, 91.51, 91.51])}
+292 1256 {'mean_speed': 22.55, 'name': 773, 'time': 22.8, 'length': 142.79, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([34.27, 34.27, 34.27, 34.27, 34.27])}
+292 1331 {'mean_speed': 22.76, 'name': 774, 'time': 44.69, 'length': 282.51, 'hist_speed': array([0. , 0. , 0.9, 0.1]), 'stochastic_time': array([67.8, 67.8, 67.8, 67.8, 67.8])}
+1647 292 {'mean_speed': 22.75, 'name': 3803, 'time': 60.14, 'length': 380.04, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([91.21, 91.21, 91.21, 91.21, 91.21])}
+1647 981 {'mean_speed': 27.28, 'name': 5110, 'time': 16.04, 'length': 121.55, 'hist_speed': array([0.1, 0.4, 0.5, 0. ]), 'stochastic_time': array([29.17, 29.17, 29.17, 29.17, 29.17])}
+1647 1404 {'mean_speed': 28.23, 'name': 5591, 'time': 27.11, 'length': 212.6, 'hist_speed': array([0.1, 0.5, 0.4, 0. ]), 'stochastic_time': array([51.02, 51.02, 51.02, 51.02, 51.02])}
+1626 292 {'mean_speed': 23.36, 'name': 3804, 'time': 58.76, 'length': 381.31, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([91.51, 91.51, 91.51, 91.51, 91.51])}
+1626 660 {'mean_speed': 24.82, 'name': 4578, 'time': 12.26, 'length': 84.5, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([20.28, 20.28, 20.28, 20.28, 20.28])}
+1626 1515 {'mean_speed': 24.43, 'name': 5716, 'time': 45.51, 'length': 308.87, 'hist_speed': array([0.1, 0.2, 0.6, 0.1]), 'stochastic_time': array([74.13, 74.13, 74.13, 74.13, 74.13])}
+1256 1321 {'mean_speed': 31.24, 'name': 2501, 'time': 43.56, 'length': 378.02, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([90.72, 90.72, 90.72, 90.72, 90.72])}
+1256 292 {'mean_speed': 22.4, 'name': 3805, 'time': 22.95, 'length': 142.79, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([34.27, 34.27, 34.27, 34.27, 34.27])}
+1256 489 {'mean_speed': 26.37, 'name': 4224, 'time': 3.72, 'length': 27.24, 'hist_speed': array([0.2, 0.3, 0.5, 0. ]), 'stochastic_time': array([6.54, 6.54, 6.54, 6.54, 6.54])}
+1331 1515 {'mean_speed': 36.11, 'name': 2590, 'time': 36.19, 'length': 363.02, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([87.12, 87.12, 87.12, 87.12, 87.12])}
+1331 1346 {'mean_speed': 20.54, 'name': 2591, 'time': 41.4, 'length': 236.2, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([56.69, 56.69, 56.69, 56.69, 56.69])}
+1331 1551 {'mean_speed': 25.38, 'name': 2592, 'time': 26.09, 'length': 183.97, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([44.15, 44.15, 44.15, 44.15, 44.15])}
+1331 292 {'mean_speed': 23.54, 'name': 3806, 'time': 43.2, 'length': 282.51, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([67.8, 67.8, 67.8, 67.8, 67.8])}
+305 1503 {'mean_speed': 18.88, 'name': 799, 'time': 35.29, 'length': 185.06, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([44.41, 44.41, 44.41, 44.41, 44.41])}
+305 1756 {'mean_speed': 25.92, 'name': 800, 'time': 49.65, 'length': 357.47, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([85.79, 85.79, 85.79, 85.79, 85.79])}
+305 1674 {'mean_speed': 30.59, 'name': 801, 'time': 22.87, 'length': 194.35, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([46.64, 46.64, 46.64, 46.64, 46.64])}
+305 1840 {'mean_speed': 20.47, 'name': 802, 'time': 61.73, 'length': 351.02, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([84.24, 84.24, 84.24, 84.24, 84.24])}
+1503 305 {'mean_speed': 23.59, 'name': 3830, 'time': 28.24, 'length': 185.06, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([44.41, 44.41, 44.41, 44.41, 44.41])}
+1503 444 {'mean_speed': 23.94, 'name': 4115, 'time': 28.11, 'length': 186.92, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([44.86, 44.86, 44.86, 44.86, 44.86])}
+1503 904 {'mean_speed': 22.42, 'name': 4994, 'time': 30.85, 'length': 192.16, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([46.12, 46.12, 46.12, 46.12, 46.12])}
+1503 1136 {'mean_speed': 23.48, 'name': 5298, 'time': 56.4, 'length': 367.88, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([88.29, 88.29, 88.29, 88.29, 88.29])}
+1756 305 {'mean_speed': 29.55, 'name': 3831, 'time': 43.55, 'length': 357.47, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([85.79, 85.79, 85.79, 85.79, 85.79])}
+1756 1136 {'mean_speed': 28.94, 'name': 5297, 'time': 23.49, 'length': 188.8, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([45.31, 45.31, 45.31, 45.31, 45.31])}
+1756 1738 {'mean_speed': 34.9, 'name': 5891, 'time': 27.37, 'length': 265.33, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([63.68, 63.68, 63.68, 63.68, 63.68])}
+1674 1742 {'mean_speed': 24.33, 'name': 2954, 'time': 25.66, 'length': 173.4, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([41.62, 41.62, 41.62, 41.62, 41.62])}
+1674 305 {'mean_speed': 21.75, 'name': 3832, 'time': 32.17, 'length': 194.35, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([46.64, 46.64, 46.64, 46.64, 46.64])}
+1674 444 {'mean_speed': 25.21, 'name': 4117, 'time': 25.97, 'length': 181.88, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([43.65, 43.65, 43.65, 43.65, 43.65])}
+1840 1858 {'mean_speed': 29.59, 'name': 3039, 'time': 8.86, 'length': 72.8, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([17.47, 17.47, 17.47, 17.47, 17.47])}
+1840 305 {'mean_speed': 25.92, 'name': 3833, 'time': 48.75, 'length': 351.02, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([84.24, 84.24, 84.24, 84.24, 84.24])}
+1840 1738 {'mean_speed': 35.52, 'name': 5893, 'time': 36.48, 'length': 359.98, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([86.39, 86.39, 86.39, 86.39, 86.39])}
+317 1526 {'mean_speed': 28.68, 'name': 826, 'time': 2.91, 'length': 23.19, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([5.57, 5.57, 5.57, 5.57, 5.57])}
+317 1787 {'mean_speed': 17.46, 'name': 827, 'time': 38.78, 'length': 188.07, 'hist_speed': array([0. , 0. , 0.8, 0.2]), 'stochastic_time': array([45.14, 45.14, 45.14, 45.14, 45.14])}
+317 1407 {'mean_speed': 23.12, 'name': 828, 'time': 24.76, 'length': 158.99, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([38.16, 38.16, 38.16, 38.16, 38.16])}
+1526 1847 {'mean_speed': 25.38, 'name': 2822, 'time': 36.67, 'length': 258.54, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([62.05, 62.05, 62.05, 62.05, 62.05])}
+1526 1745 {'mean_speed': 32.09, 'name': 2823, 'time': 51.33, 'length': 457.53, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([109.81, 109.81, 109.81, 109.81, 109.81])}
+1526 317 {'mean_speed': 21.53, 'name': 3855, 'time': 3.88, 'length': 23.19, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([5.57, 5.57, 5.57, 5.57, 5.57])}
+1787 479 {'mean_speed': 19.03, 'name': 1188, 'time': 17.54, 'length': 92.72, 'hist_speed': array([0. , 0.2, 0.7, 0.1]), 'stochastic_time': array([22.25, 22.25, 22.25, 22.25, 22.25])}
+1787 317 {'mean_speed': 27.75, 'name': 3856, 'time': 24.4, 'length': 188.07, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([45.14, 45.14, 45.14, 45.14, 45.14])}
+1407 1586 {'mean_speed': 37.02, 'name': 2672, 'time': 17.74, 'length': 182.43, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([43.78, 43.78, 43.78, 43.78, 43.78])}
+1407 317 {'mean_speed': 29.02, 'name': 3857, 'time': 19.72, 'length': 158.99, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([38.16, 38.16, 38.16, 38.16, 38.16])}
+1407 476 {'mean_speed': 33.42, 'name': 4194, 'time': 61.99, 'length': 575.43, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([138.1, 138.1, 138.1, 138.1, 138.1])}
+330 442 {'mean_speed': 40.3, 'name': 851, 'time': 33.81, 'length': 378.52, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([90.84, 90.84, 90.84, 90.84, 90.84])}
+330 1721 {'mean_speed': 30.23, 'name': 852, 'time': 26.32, 'length': 221.0, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([53.04, 53.04, 53.04, 53.04, 53.04])}
+442 1049 {'mean_speed': 13.45, 'name': 1091, 'time': 43.74, 'length': 163.41, 'hist_speed': array([0., 0., 0., 1.]), 'stochastic_time': array([39.22, 39.22, 39.22, 39.22, 39.22])}
+442 604 {'mean_speed': 22.74, 'name': 1092, 'time': 30.02, 'length': 189.62, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([45.51, 45.51, 45.51, 45.51, 45.51])}
+442 330 {'mean_speed': 29.13, 'name': 3880, 'time': 46.78, 'length': 378.52, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([90.84, 90.84, 90.84, 90.84, 90.84])}
+1721 1739 {'mean_speed': 28.78, 'name': 2988, 'time': 28.01, 'length': 223.95, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([53.75, 53.75, 53.75, 53.75, 53.75])}
+1721 330 {'mean_speed': 33.21, 'name': 3881, 'time': 23.96, 'length': 221.0, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([53.04, 53.04, 53.04, 53.04, 53.04])}
+1721 797 {'mean_speed': 32.32, 'name': 4797, 'time': 28.24, 'length': 253.56, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([60.85, 60.85, 60.85, 60.85, 60.85])}
+331 1691 {'mean_speed': 39.46, 'name': 853, 'time': 30.81, 'length': 337.74, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([81.06, 81.06, 81.06, 81.06, 81.06])}
+331 1396 {'mean_speed': 44.01, 'name': 854, 'time': 25.5, 'length': 311.8, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([74.83, 74.83, 74.83, 74.83, 74.83])}
+331 917 {'mean_speed': 30.08, 'name': 855, 'time': 20.4, 'length': 170.5, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([40.92, 40.92, 40.92, 40.92, 40.92])}
+1691 331 {'mean_speed': 30.45, 'name': 3882, 'time': 39.93, 'length': 337.74, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([81.06, 81.06, 81.06, 81.06, 81.06])}
+1691 889 {'mean_speed': 36.12, 'name': 4963, 'time': 22.99, 'length': 230.67, 'hist_speed': array([0.9, 0. , 0.1, 0. ]), 'stochastic_time': array([55.36, 55.36, 55.36, 55.36, 55.36])}
+1691 1509 {'mean_speed': 34.94, 'name': 5705, 'time': 32.71, 'length': 317.51, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([76.2, 76.2, 76.2, 76.2, 76.2])}
+1396 1509 {'mean_speed': 42.85, 'name': 2661, 'time': 7.38, 'length': 87.87, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([21.09, 21.09, 21.09, 21.09, 21.09])}
+1396 331 {'mean_speed': 37.02, 'name': 3883, 'time': 30.32, 'length': 311.8, 'hist_speed': array([0.6, 0.2, 0.2, 0. ]), 'stochastic_time': array([74.83, 74.83, 74.83, 74.83, 74.83])}
+1396 579 {'mean_speed': 34.13, 'name': 4419, 'time': 27.48, 'length': 260.51, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([62.52, 62.52, 62.52, 62.52, 62.52])}
+917 1568 {'mean_speed': 19.47, 'name': 2048, 'time': 52.72, 'length': 285.13, 'hist_speed': array([0.1, 0. , 0.6, 0.3]), 'stochastic_time': array([68.43, 68.43, 68.43, 68.43, 68.43])}
+917 1572 {'mean_speed': 24.09, 'name': 2049, 'time': 43.51, 'length': 291.18, 'hist_speed': array([0. , 0.5, 0.4, 0.1]), 'stochastic_time': array([69.88, 69.88, 69.88, 69.88, 69.88])}
+917 331 {'mean_speed': 31.64, 'name': 3884, 'time': 19.4, 'length': 170.5, 'hist_speed': array([0.4, 0.3, 0.3, 0. ]), 'stochastic_time': array([40.92, 40.92, 40.92, 40.92, 40.92])}
+917 889 {'mean_speed': 23.43, 'name': 4964, 'time': 63.72, 'length': 414.74, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([99.54, 99.54, 99.54, 99.54, 99.54])}
+342 604 {'mean_speed': 32.42, 'name': 872, 'time': 16.35, 'length': 147.23, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([35.34, 35.34, 35.34, 35.34, 35.34])}
+342 797 {'mean_speed': 37.54, 'name': 873, 'time': 25.9, 'length': 270.09, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([64.82, 64.82, 64.82, 64.82, 64.82])}
+342 874 {'mean_speed': 36.8, 'name': 874, 'time': 21.84, 'length': 223.27, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([53.59, 53.59, 53.59, 53.59, 53.59])}
+797 1721 {'mean_speed': 33.68, 'name': 1815, 'time': 27.1, 'length': 253.56, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([60.85, 60.85, 60.85, 60.85, 60.85])}
+797 1219 {'mean_speed': 37.07, 'name': 1816, 'time': 21.9, 'length': 225.46, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([54.11, 54.11, 54.11, 54.11, 54.11])}
+797 342 {'mean_speed': 34.61, 'name': 3900, 'time': 28.09, 'length': 270.09, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([64.82, 64.82, 64.82, 64.82, 64.82])}
+874 1219 {'mean_speed': 36.31, 'name': 1966, 'time': 26.78, 'length': 270.14, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([64.83, 64.83, 64.83, 64.83, 64.83])}
+874 979 {'mean_speed': 22.02, 'name': 1967, 'time': 32.95, 'length': 201.55, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([48.37, 48.37, 48.37, 48.37, 48.37])}
+874 342 {'mean_speed': 33.66, 'name': 3901, 'time': 23.88, 'length': 223.27, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([53.59, 53.59, 53.59, 53.59, 53.59])}
+874 790 {'mean_speed': 32.94, 'name': 4785, 'time': 44.2, 'length': 404.41, 'hist_speed': array([0.3, 0.6, 0.1, 0. ]), 'stochastic_time': array([97.06, 97.06, 97.06, 97.06, 97.06])}
+364 1437 {'mean_speed': 15.89, 'name': 917, 'time': 56.74, 'length': 250.46, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([60.11, 60.11, 60.11, 60.11, 60.11])}
+364 725 {'mean_speed': 36.22, 'name': 918, 'time': 29.91, 'length': 300.93, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([72.22, 72.22, 72.22, 72.22, 72.22])}
+364 1672 {'mean_speed': 25.65, 'name': 919, 'time': 60.84, 'length': 433.48, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([104.03, 104.03, 104.03, 104.03, 104.03])}
+364 1612 {'mean_speed': 22.47, 'name': 920, 'time': 28.81, 'length': 179.85, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([43.16, 43.16, 43.16, 43.16, 43.16])}
+1437 1690 {'mean_speed': 18.8, 'name': 2707, 'time': 28.26, 'length': 147.58, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([35.42, 35.42, 35.42, 35.42, 35.42])}
+1437 364 {'mean_speed': 26.47, 'name': 3942, 'time': 34.06, 'length': 250.46, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([60.11, 60.11, 60.11, 60.11, 60.11])}
+1437 900 {'mean_speed': 23.78, 'name': 4985, 'time': 22.15, 'length': 146.32, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([35.12, 35.12, 35.12, 35.12, 35.12])}
+365 718 {'mean_speed': 29.71, 'name': 921, 'time': 37.08, 'length': 306.04, 'hist_speed': array([0.2, 0.6, 0.2, 0. ]), 'stochastic_time': array([73.45, 73.45, 73.45, 73.45, 73.45])}
+365 1410 {'mean_speed': 27.89, 'name': 922, 'time': 39.92, 'length': 309.28, 'hist_speed': array([0.3, 0.3, 0.3, 0.1]), 'stochastic_time': array([74.23, 74.23, 74.23, 74.23, 74.23])}
+365 399 {'mean_speed': 20.08, 'name': 923, 'time': 83.89, 'length': 467.92, 'hist_speed': array([0. , 0.1, 0.7, 0.2]), 'stochastic_time': array([112.3, 112.3, 112.3, 112.3, 112.3])}
+718 1730 {'mean_speed': 35.15, 'name': 1684, 'time': 32.59, 'length': 318.18, 'hist_speed': array([0.4, 0.5, 0. , 0.1]), 'stochastic_time': array([76.36, 76.36, 76.36, 76.36, 76.36])}
+718 1482 {'mean_speed': 27.17, 'name': 1685, 'time': 39.82, 'length': 300.56, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([72.13, 72.13, 72.13, 72.13, 72.13])}
+718 796 {'mean_speed': 34.69, 'name': 1686, 'time': 49.06, 'length': 472.77, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([113.47, 113.47, 113.47, 113.47, 113.47])}
+718 365 {'mean_speed': 22.85, 'name': 3946, 'time': 48.22, 'length': 306.04, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([73.45, 73.45, 73.45, 73.45, 73.45])}
+1410 365 {'mean_speed': 25.35, 'name': 3947, 'time': 43.92, 'length': 309.28, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([74.23, 74.23, 74.23, 74.23, 74.23])}
+1410 1259 {'mean_speed': 35.08, 'name': 5437, 'time': 31.17, 'length': 303.74, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([72.9, 72.9, 72.9, 72.9, 72.9])}
+399 796 {'mean_speed': 42.48, 'name': 991, 'time': 26.81, 'length': 316.33, 'hist_speed': array([0.6, 0.3, 0.1, 0. ]), 'stochastic_time': array([75.92, 75.92, 75.92, 75.92, 75.92])}
+399 365 {'mean_speed': 27.4, 'name': 3948, 'time': 61.48, 'length': 467.92, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([112.3, 112.3, 112.3, 112.3, 112.3])}
+381 925 {'mean_speed': 45, 'name': 954, 'time': 21.85, 'length': 273.19, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([65.56, 65.56, 65.56, 65.56, 65.56])}
+381 1837 {'mean_speed': 42.41, 'name': 955, 'time': 49.31, 'length': 580.95, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([139.43, 139.43, 139.43, 139.43, 139.43])}
+381 1509 {'mean_speed': 34.69, 'name': 956, 'time': 26.37, 'length': 254.09, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([60.98, 60.98, 60.98, 60.98, 60.98])}
+925 974 {'mean_speed': 33.19, 'name': 2060, 'time': 9.77, 'length': 90.09, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([21.62, 21.62, 21.62, 21.62, 21.62])}
+925 1044 {'mean_speed': 34.99, 'name': 2061, 'time': 27.0, 'length': 262.47, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([62.99, 62.99, 62.99, 62.99, 62.99])}
+925 381 {'mean_speed': 33.28, 'name': 3979, 'time': 29.55, 'length': 273.19, 'hist_speed': array([0.3, 0.6, 0.1, 0. ]), 'stochastic_time': array([65.56, 65.56, 65.56, 65.56, 65.56])}
+925 579 {'mean_speed': 36.15, 'name': 4417, 'time': 25.44, 'length': 255.48, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([61.31, 61.31, 61.31, 61.31, 61.31])}
+1837 381 {'mean_speed': 36.79, 'name': 3980, 'time': 56.85, 'length': 580.95, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([139.43, 139.43, 139.43, 139.43, 139.43])}
+1837 1469 {'mean_speed': 32.89, 'name': 5662, 'time': 14.96, 'length': 136.66, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([32.8, 32.8, 32.8, 32.8, 32.8])}
+1837 1783 {'mean_speed': 36.03, 'name': 5911, 'time': 19.01, 'length': 190.21, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([45.65, 45.65, 45.65, 45.65, 45.65])}
+1837 1809 {'mean_speed': 31.68, 'name': 5923, 'time': 58.61, 'length': 515.8, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([123.79, 123.79, 123.79, 123.79, 123.79])}
+1509 1691 {'mean_speed': 42.15, 'name': 2800, 'time': 27.12, 'length': 317.51, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([76.2, 76.2, 76.2, 76.2, 76.2])}
+1509 381 {'mean_speed': 41.24, 'name': 3981, 'time': 22.18, 'length': 254.09, 'hist_speed': array([0.7, 0.2, 0.1, 0. ]), 'stochastic_time': array([60.98, 60.98, 60.98, 60.98, 60.98])}
+1509 1396 {'mean_speed': 34.07, 'name': 5582, 'time': 9.28, 'length': 87.87, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([21.09, 21.09, 21.09, 21.09, 21.09])}
+796 1264 {'mean_speed': 45, 'name': 1813, 'time': 23.81, 'length': 297.62, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([71.43, 71.43, 71.43, 71.43, 71.43])}
+796 399 {'mean_speed': 32.04, 'name': 4011, 'time': 35.54, 'length': 316.33, 'hist_speed': array([0.3, 0.6, 0. , 0.1]), 'stochastic_time': array([75.92, 75.92, 75.92, 75.92, 75.92])}
+796 718 {'mean_speed': 31.09, 'name': 4679, 'time': 54.74, 'length': 472.77, 'hist_speed': array([0.2, 0.7, 0.1, 0. ]), 'stochastic_time': array([113.47, 113.47, 113.47, 113.47, 113.47])}
+420 1516 {'mean_speed': 40.53, 'name': 1038, 'time': 32.53, 'length': 366.29, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([87.91, 87.91, 87.91, 87.91, 87.91])}
+420 1498 {'mean_speed': 44.43, 'name': 1039, 'time': 28.48, 'length': 351.43, 'hist_speed': array([0.6, 0.3, 0. , 0.1]), 'stochastic_time': array([84.34, 84.34, 84.34, 84.34, 84.34])}
+420 1033 {'mean_speed': 45, 'name': 1040, 'time': 35.57, 'length': 444.6, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([106.7, 106.7, 106.7, 106.7, 106.7])}
+1516 420 {'mean_speed': 45, 'name': 4057, 'time': 29.3, 'length': 366.29, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([87.91, 87.91, 87.91, 87.91, 87.91])}
+1516 741 {'mean_speed': 17.9, 'name': 4711, 'time': 102.28, 'length': 508.59, 'hist_speed': array([0. , 0. , 0.8, 0.2]), 'stochastic_time': array([122.06, 122.06, 122.06, 122.06, 122.06])}
+1498 420 {'mean_speed': 33.94, 'name': 4058, 'time': 37.28, 'length': 351.43, 'hist_speed': array([0.5, 0.3, 0.2, 0. ]), 'stochastic_time': array([84.34, 84.34, 84.34, 84.34, 84.34])}
+1498 741 {'mean_speed': 23.44, 'name': 4713, 'time': 21.33, 'length': 138.85, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([33.32, 33.32, 33.32, 33.32, 33.32])}
+1498 1089 {'mean_speed': 29.21, 'name': 5248, 'time': 48.66, 'length': 394.83, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([94.76, 94.76, 94.76, 94.76, 94.76])}
+1498 1495 {'mean_speed': 20.37, 'name': 5689, 'time': 37.67, 'length': 213.13, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([51.15, 51.15, 51.15, 51.15, 51.15])}
+1033 1089 {'mean_speed': 28.63, 'name': 2227, 'time': 39.21, 'length': 311.84, 'hist_speed': array([0. , 0.7, 0.2, 0.1]), 'stochastic_time': array([74.84, 74.84, 74.84, 74.84, 74.84])}
+1033 1483 {'mean_speed': 45, 'name': 2228, 'time': 49.53, 'length': 619.11, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([148.58, 148.58, 148.58, 148.58, 148.58])}
+1033 420 {'mean_speed': 41.25, 'name': 4059, 'time': 38.8, 'length': 444.6, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([106.7, 106.7, 106.7, 106.7, 106.7])}
+430 1385 {'mean_speed': 27.27, 'name': 1061, 'time': 32.99, 'length': 249.91, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([59.98, 59.98, 59.98, 59.98, 59.98])}
+430 830 {'mean_speed': 21.81, 'name': 1062, 'time': 37.42, 'length': 226.69, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([54.41, 54.41, 54.41, 54.41, 54.41])}
+830 1323 {'mean_speed': 44.05, 'name': 1879, 'time': 26.29, 'length': 321.74, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([77.22, 77.22, 77.22, 77.22, 77.22])}
+830 1585 {'mean_speed': 20.18, 'name': 1880, 'time': 29.97, 'length': 167.99, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([40.32, 40.32, 40.32, 40.32, 40.32])}
+830 430 {'mean_speed': 29.89, 'name': 4081, 'time': 27.3, 'length': 226.69, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([54.41, 54.41, 54.41, 54.41, 54.41])}
+435 1306 {'mean_speed': 33.07, 'name': 1073, 'time': 10.8, 'length': 99.25, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([23.82, 23.82, 23.82, 23.82, 23.82])}
+435 1808 {'mean_speed': 25.64, 'name': 1074, 'time': 50.81, 'length': 361.88, 'hist_speed': array([0.1, 0.4, 0.4, 0.1]), 'stochastic_time': array([86.85, 86.85, 86.85, 86.85, 86.85])}
+435 1772 {'mean_speed': 24.62, 'name': 1075, 'time': 45.69, 'length': 312.5, 'hist_speed': array([0.1, 0.3, 0.5, 0.1]), 'stochastic_time': array([75., 75., 75., 75., 75.])}
+1306 1428 {'mean_speed': 40.4, 'name': 2560, 'time': 24.35, 'length': 273.28, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([65.59, 65.59, 65.59, 65.59, 65.59])}
+1306 1774 {'mean_speed': 25.74, 'name': 2561, 'time': 34.28, 'length': 245.14, 'hist_speed': array([0. , 0.8, 0.1, 0.1]), 'stochastic_time': array([58.83, 58.83, 58.83, 58.83, 58.83])}
+1306 435 {'mean_speed': 25.64, 'name': 4092, 'time': 13.94, 'length': 99.25, 'hist_speed': array([0.1, 0.4, 0.4, 0.1]), 'stochastic_time': array([23.82, 23.82, 23.82, 23.82, 23.82])}
+1808 435 {'mean_speed': 27.54, 'name': 4093, 'time': 47.3, 'length': 361.88, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([86.85, 86.85, 86.85, 86.85, 86.85])}
+1808 1316 {'mean_speed': 30.27, 'name': 5500, 'time': 21.23, 'length': 178.47, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([42.83, 42.83, 42.83, 42.83, 42.83])}
+1808 1420 {'mean_speed': 29.17, 'name': 5603, 'time': 28.81, 'length': 233.44, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([56.02, 56.02, 56.02, 56.02, 56.02])}
+1772 435 {'mean_speed': 34.18, 'name': 4094, 'time': 32.91, 'length': 312.5, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([75., 75., 75., 75., 75.])}
+1772 1420 {'mean_speed': 28.14, 'name': 5606, 'time': 39.28, 'length': 307.07, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([73.7, 73.7, 73.7, 73.7, 73.7])}
+1049 442 {'mean_speed': 27.43, 'name': 4109, 'time': 21.45, 'length': 163.41, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([39.22, 39.22, 39.22, 39.22, 39.22])}
+1049 604 {'mean_speed': 28.78, 'name': 4465, 'time': 17.46, 'length': 139.59, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([33.5, 33.5, 33.5, 33.5, 33.5])}
+444 1704 {'mean_speed': 23.6, 'name': 1096, 'time': 28.8, 'length': 188.81, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([45.31, 45.31, 45.31, 45.31, 45.31])}
+444 1503 {'mean_speed': 21.08, 'name': 1097, 'time': 31.92, 'length': 186.92, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([44.86, 44.86, 44.86, 44.86, 44.86])}
+444 1271 {'mean_speed': 27.77, 'name': 1098, 'time': 23.39, 'length': 180.41, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([43.3, 43.3, 43.3, 43.3, 43.3])}
+444 1674 {'mean_speed': 24.61, 'name': 1099, 'time': 26.61, 'length': 181.88, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([43.65, 43.65, 43.65, 43.65, 43.65])}
+1704 1710 {'mean_speed': 32.38, 'name': 2975, 'time': 22.6, 'length': 203.28, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([48.79, 48.79, 48.79, 48.79, 48.79])}
+1704 1752 {'mean_speed': 33.57, 'name': 2976, 'time': 20.13, 'length': 187.74, 'hist_speed': array([0.4, 0.4, 0.2, 0. ]), 'stochastic_time': array([45.06, 45.06, 45.06, 45.06, 45.06])}
+1704 444 {'mean_speed': 25.1, 'name': 4114, 'time': 27.08, 'length': 188.81, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([45.31, 45.31, 45.31, 45.31, 45.31])}
+1704 904 {'mean_speed': 23.69, 'name': 4993, 'time': 30.58, 'length': 201.22, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([48.29, 48.29, 48.29, 48.29, 48.29])}
+1271 1752 {'mean_speed': 32.04, 'name': 2519, 'time': 22.31, 'length': 198.6, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([47.66, 47.66, 47.66, 47.66, 47.66])}
+1271 1742 {'mean_speed': 30.16, 'name': 2520, 'time': 21.0, 'length': 175.92, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([42.22, 42.22, 42.22, 42.22, 42.22])}
+1271 444 {'mean_speed': 24.51, 'name': 4116, 'time': 26.5, 'length': 180.41, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([43.3, 43.3, 43.3, 43.3, 43.3])}
+1271 1232 {'mean_speed': 25.73, 'name': 5408, 'time': 51.1, 'length': 365.24, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([87.66, 87.66, 87.66, 87.66, 87.66])}
+476 1514 {'mean_speed': 28.64, 'name': 1175, 'time': 53.94, 'length': 429.1, 'hist_speed': array([0.1, 0.6, 0.3, 0. ]), 'stochastic_time': array([102.98, 102.98, 102.98, 102.98, 102.98])}
+476 1745 {'mean_speed': 45, 'name': 1176, 'time': 16.67, 'length': 208.42, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([50.02, 50.02, 50.02, 50.02, 50.02])}
+476 1407 {'mean_speed': 41.98, 'name': 1177, 'time': 49.35, 'length': 575.43, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([138.1, 138.1, 138.1, 138.1, 138.1])}
+476 921 {'mean_speed': 37.42, 'name': 1178, 'time': 30.08, 'length': 312.62, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([75.03, 75.03, 75.03, 75.03, 75.03])}
+1514 1717 {'mean_speed': 31.91, 'name': 2808, 'time': 25.22, 'length': 223.52, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([53.64, 53.64, 53.64, 53.64, 53.64])}
+1514 1685 {'mean_speed': 25.41, 'name': 2809, 'time': 38.79, 'length': 273.8, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([65.71, 65.71, 65.71, 65.71, 65.71])}
+1514 1803 {'mean_speed': 35.25, 'name': 2810, 'time': 43.83, 'length': 429.14, 'hist_speed': array([0.4, 0.5, 0. , 0.1]), 'stochastic_time': array([102.99, 102.99, 102.99, 102.99, 102.99])}
+1514 476 {'mean_speed': 32.93, 'name': 4192, 'time': 46.91, 'length': 429.1, 'hist_speed': array([0.3, 0.6, 0.1, 0. ]), 'stochastic_time': array([102.98, 102.98, 102.98, 102.98, 102.98])}
+1745 476 {'mean_speed': 45, 'name': 4193, 'time': 16.67, 'length': 208.42, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([50.02, 50.02, 50.02, 50.02, 50.02])}
+1745 1526 {'mean_speed': 35.27, 'name': 5728, 'time': 46.7, 'length': 457.53, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([109.81, 109.81, 109.81, 109.81, 109.81])}
+1745 1685 {'mean_speed': 43.2, 'name': 5858, 'time': 21.77, 'length': 261.27, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([62.7, 62.7, 62.7, 62.7, 62.7])}
+921 1803 {'mean_speed': 24.36, 'name': 2055, 'time': 73.86, 'length': 499.77, 'hist_speed': array([0. , 0.6, 0.3, 0.1]), 'stochastic_time': array([119.94, 119.94, 119.94, 119.94, 119.94])}
+921 476 {'mean_speed': 34.64, 'name': 4195, 'time': 32.49, 'length': 312.62, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([75.03, 75.03, 75.03, 75.03, 75.03])}
+479 1777 {'mean_speed': 20.97, 'name': 1186, 'time': 30.66, 'length': 178.59, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([42.86, 42.86, 42.86, 42.86, 42.86])}
+1777 1847 {'mean_speed': 25.98, 'name': 3014, 'time': 24.53, 'length': 177.0, 'hist_speed': array([0.1, 0.8, 0. , 0.1]), 'stochastic_time': array([42.48, 42.48, 42.48, 42.48, 42.48])}
+1777 1711 {'mean_speed': 27.85, 'name': 5877, 'time': 10.82, 'length': 83.68, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([20.08, 20.08, 20.08, 20.08, 20.08])}
+659 479 {'mean_speed': 23.32, 'name': 1187, 'time': 9.26, 'length': 59.98, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([14.39, 14.39, 14.39, 14.39, 14.39])}
+659 1711 {'mean_speed': 31.29, 'name': 1574, 'time': 21.04, 'length': 182.85, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([43.88, 43.88, 43.88, 43.88, 43.88])}
+659 1751 {'mean_speed': 33.56, 'name': 1576, 'time': 28.43, 'length': 264.99, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([63.6, 63.6, 63.6, 63.6, 63.6])}
+489 1715 {'mean_speed': 22.7, 'name': 1210, 'time': 29.76, 'length': 187.65, 'hist_speed': array([0. , 0.4, 0.6, 0. ]), 'stochastic_time': array([45.04, 45.04, 45.04, 45.04, 45.04])}
+489 981 {'mean_speed': 45, 'name': 1211, 'time': 28.9, 'length': 361.26, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([86.7, 86.7, 86.7, 86.7, 86.7])}
+489 1256 {'mean_speed': 29.81, 'name': 1212, 'time': 3.29, 'length': 27.24, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([6.54, 6.54, 6.54, 6.54, 6.54])}
+1715 489 {'mean_speed': 38.69, 'name': 4222, 'time': 17.46, 'length': 187.65, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([45.04, 45.04, 45.04, 45.04, 45.04])}
+1715 1463 {'mean_speed': 29.21, 'name': 5651, 'time': 28.26, 'length': 229.33, 'hist_speed': array([0.1, 0.6, 0.3, 0. ]), 'stochastic_time': array([55.04, 55.04, 55.04, 55.04, 55.04])}
+1715 1610 {'mean_speed': 32.8, 'name': 5806, 'time': 60.02, 'length': 546.88, 'hist_speed': array([0.2, 0.7, 0.1, 0. ]), 'stochastic_time': array([131.25, 131.25, 131.25, 131.25, 131.25])}
+981 1584 {'mean_speed': 39.88, 'name': 2153, 'time': 16.4, 'length': 181.65, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([43.59, 43.59, 43.59, 43.59, 43.59])}
+981 1647 {'mean_speed': 30.04, 'name': 2154, 'time': 14.57, 'length': 121.55, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([29.17, 29.17, 29.17, 29.17, 29.17])}
+981 489 {'mean_speed': 33.4, 'name': 4223, 'time': 38.94, 'length': 361.26, 'hist_speed': array([0.4, 0.2, 0.4, 0. ]), 'stochastic_time': array([86.7, 86.7, 86.7, 86.7, 86.7])}
+515 1859 {'mean_speed': 27.01, 'name': 1272, 'time': 44.55, 'length': 334.26, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([80.22, 80.22, 80.22, 80.22, 80.22])}
+515 1265 {'mean_speed': 28.13, 'name': 1273, 'time': 19.41, 'length': 151.67, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([36.4, 36.4, 36.4, 36.4, 36.4])}
+1859 515 {'mean_speed': 30.87, 'name': 4282, 'time': 38.98, 'length': 334.26, 'hist_speed': array([0.1, 0.7, 0.2, 0. ]), 'stochastic_time': array([80.22, 80.22, 80.22, 80.22, 80.22])}
+1859 542 {'mean_speed': 29.62, 'name': 4344, 'time': 26.0, 'length': 213.96, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([51.35, 51.35, 51.35, 51.35, 51.35])}
+1859 1841 {'mean_speed': 31.55, 'name': 5933, 'time': 23.93, 'length': 209.68, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([50.32, 50.32, 50.32, 50.32, 50.32])}
+938 515 {'mean_speed': 32.24, 'name': 1274, 'time': 22.86, 'length': 204.7, 'hist_speed': array([0.3, 0.6, 0.1, 0. ]), 'stochastic_time': array([49.13, 49.13, 49.13, 49.13, 49.13])}
+938 1419 {'mean_speed': 31.89, 'name': 2077, 'time': 16.07, 'length': 142.32, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([34.16, 34.16, 34.16, 34.16, 34.16])}
+938 1574 {'mean_speed': 45, 'name': 2078, 'time': 24.92, 'length': 311.48, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([74.75, 74.75, 74.75, 74.75, 74.75])}
+542 1859 {'mean_speed': 28.65, 'name': 1338, 'time': 26.88, 'length': 213.96, 'hist_speed': array([0.2, 0.4, 0.4, 0. ]), 'stochastic_time': array([51.35, 51.35, 51.35, 51.35, 51.35])}
+542 1419 {'mean_speed': 34.28, 'name': 1339, 'time': 20.98, 'length': 199.74, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([47.94, 47.94, 47.94, 47.94, 47.94])}
+542 1865 {'mean_speed': 45, 'name': 1340, 'time': 15.03, 'length': 187.85, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([45.08, 45.08, 45.08, 45.08, 45.08])}
+1419 1839 {'mean_speed': 25.82, 'name': 2682, 'time': 25.2, 'length': 180.76, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([43.38, 43.38, 43.38, 43.38, 43.38])}
+1419 542 {'mean_speed': 31.51, 'name': 4345, 'time': 22.82, 'length': 199.74, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([47.94, 47.94, 47.94, 47.94, 47.94])}
+1419 938 {'mean_speed': 39.4, 'name': 5044, 'time': 13.0, 'length': 142.32, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([34.16, 34.16, 34.16, 34.16, 34.16])}
+1865 542 {'mean_speed': 35.06, 'name': 4346, 'time': 19.29, 'length': 187.85, 'hist_speed': array([0.5, 0.3, 0.2, 0. ]), 'stochastic_time': array([45.08, 45.08, 45.08, 45.08, 45.08])}
+1865 1484 {'mean_speed': 40.19, 'name': 5674, 'time': 35.64, 'length': 397.86, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([95.49, 95.49, 95.49, 95.49, 95.49])}
+1865 1839 {'mean_speed': 40.72, 'name': 5931, 'time': 16.55, 'length': 187.22, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([44.93, 44.93, 44.93, 44.93, 44.93])}
+548 1634 {'mean_speed': 19.29, 'name': 1352, 'time': 51.04, 'length': 273.49, 'hist_speed': array([0. , 0.1, 0.8, 0.1]), 'stochastic_time': array([65.64, 65.64, 65.64, 65.64, 65.64])}
+548 1803 {'mean_speed': 36.8, 'name': 1353, 'time': 27.74, 'length': 283.57, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([68.06, 68.06, 68.06, 68.06, 68.06])}
+1634 1649 {'mean_speed': 22.4, 'name': 2923, 'time': 38.91, 'length': 242.12, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([58.11, 58.11, 58.11, 58.11, 58.11])}
+1634 548 {'mean_speed': 22.82, 'name': 4358, 'time': 43.14, 'length': 273.49, 'hist_speed': array([0. , 0.5, 0.4, 0.1]), 'stochastic_time': array([65.64, 65.64, 65.64, 65.64, 65.64])}
+1634 1383 {'mean_speed': 26.01, 'name': 5572, 'time': 55.71, 'length': 402.48, 'hist_speed': array([0. , 0.6, 0.4, 0. ]), 'stochastic_time': array([96.59, 96.59, 96.59, 96.59, 96.59])}
+1803 548 {'mean_speed': 35.92, 'name': 4359, 'time': 28.42, 'length': 283.57, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([68.06, 68.06, 68.06, 68.06, 68.06])}
+1803 921 {'mean_speed': 34.46, 'name': 5024, 'time': 52.21, 'length': 499.77, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([119.94, 119.94, 119.94, 119.94, 119.94])}
+1803 1383 {'mean_speed': 30.13, 'name': 5573, 'time': 28.71, 'length': 240.32, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([57.68, 57.68, 57.68, 57.68, 57.68])}
+1803 1514 {'mean_speed': 38.08, 'name': 5715, 'time': 40.57, 'length': 429.14, 'hist_speed': array([0.6, 0.3, 0.1, 0. ]), 'stochastic_time': array([102.99, 102.99, 102.99, 102.99, 102.99])}
+559 1000 {'mean_speed': 35.64, 'name': 1376, 'time': 33.8, 'length': 334.63, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([80.31, 80.31, 80.31, 80.31, 80.31])}
+559 667 {'mean_speed': 23.6, 'name': 1377, 'time': 21.71, 'length': 142.29, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([34.15, 34.15, 34.15, 34.15, 34.15])}
+667 832 {'mean_speed': 24.5, 'name': 1590, 'time': 44.7, 'length': 304.23, 'hist_speed': array([0. , 0.2, 0.8, 0. ]), 'stochastic_time': array([73.01, 73.01, 73.01, 73.01, 73.01])}
+667 790 {'mean_speed': 35.83, 'name': 1591, 'time': 33.65, 'length': 334.9, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([80.38, 80.38, 80.38, 80.38, 80.38])}
+667 559 {'mean_speed': 37.95, 'name': 4383, 'time': 13.5, 'length': 142.29, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([34.15, 34.15, 34.15, 34.15, 34.15])}
+579 925 {'mean_speed': 28.51, 'name': 1411, 'time': 32.26, 'length': 255.48, 'hist_speed': array([0.2, 0.5, 0.3, 0. ]), 'stochastic_time': array([61.31, 61.31, 61.31, 61.31, 61.31])}
+579 1846 {'mean_speed': 25.35, 'name': 1412, 'time': 48.63, 'length': 342.46, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([82.19, 82.19, 82.19, 82.19, 82.19])}
+579 1396 {'mean_speed': 40.9, 'name': 1413, 'time': 22.93, 'length': 260.51, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([62.52, 62.52, 62.52, 62.52, 62.52])}
+1846 579 {'mean_speed': 30.91, 'name': 4418, 'time': 39.89, 'length': 342.46, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([82.19, 82.19, 82.19, 82.19, 82.19])}
+1846 1044 {'mean_speed': 26.46, 'name': 5197, 'time': 25.51, 'length': 187.48, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([44.99, 44.99, 44.99, 44.99, 44.99])}
+1846 1266 {'mean_speed': 23.6, 'name': 5442, 'time': 33.22, 'length': 217.76, 'hist_speed': array([0. , 0.7, 0.2, 0.1]), 'stochastic_time': array([52.26, 52.26, 52.26, 52.26, 52.26])}
+1061 1696 {'mean_speed': 15.2, 'name': 2263, 'time': 56.47, 'length': 238.41, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([57.22, 57.22, 57.22, 57.22, 57.22])}
+1061 1361 {'mean_speed': 45, 'name': 2264, 'time': 20.94, 'length': 261.74, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([62.82, 62.82, 62.82, 62.82, 62.82])}
+1061 1169 {'mean_speed': 45, 'name': 2265, 'time': 47.06, 'length': 588.21, 'hist_speed': array([0.9, 0. , 0.1, 0. ]), 'stochastic_time': array([141.17, 141.17, 141.17, 141.17, 141.17])}
+1061 584 {'mean_speed': 33.91, 'name': 4428, 'time': 34.62, 'length': 326.12, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([78.27, 78.27, 78.27, 78.27, 78.27])}
+956 1361 {'mean_speed': 23.79, 'name': 2108, 'time': 46.74, 'length': 308.86, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([74.13, 74.13, 74.13, 74.13, 74.13])}
+956 1546 {'mean_speed': 29.83, 'name': 2109, 'time': 30.98, 'length': 256.67, 'hist_speed': array([0.3, 0.2, 0.5, 0. ]), 'stochastic_time': array([61.6, 61.6, 61.6, 61.6, 61.6])}
+956 584 {'mean_speed': 33.78, 'name': 4429, 'time': 24.41, 'length': 229.03, 'hist_speed': array([0.4, 0.5, 0.1, 0. ]), 'stochastic_time': array([54.97, 54.97, 54.97, 54.97, 54.97])}
+1127 1397 {'mean_speed': 33.87, 'name': 2346, 'time': 24.12, 'length': 226.95, 'hist_speed': array([0.2, 0.8, 0. , 0. ]), 'stochastic_time': array([54.47, 54.47, 54.47, 54.47, 54.47])}
+1127 584 {'mean_speed': 35.71, 'name': 4430, 'time': 55.77, 'length': 553.21, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([132.77, 132.77, 132.77, 132.77, 132.77])}
+1127 611 {'mean_speed': 33.88, 'name': 4480, 'time': 14.76, 'length': 138.9, 'hist_speed': array([0.7, 0.2, 0.1, 0. ]), 'stochastic_time': array([33.34, 33.34, 33.34, 33.34, 33.34])}
+588 953 {'mean_speed': 17.05, 'name': 1434, 'time': 25.95, 'length': 122.92, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([29.5, 29.5, 29.5, 29.5, 29.5])}
+588 1238 {'mean_speed': 26.65, 'name': 1435, 'time': 62.76, 'length': 464.62, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([111.51, 111.51, 111.51, 111.51, 111.51])}
+1238 1384 {'mean_speed': 24.74, 'name': 2482, 'time': 12.42, 'length': 85.37, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([20.49, 20.49, 20.49, 20.49, 20.49])}
+1238 588 {'mean_speed': 18.8, 'name': 4441, 'time': 88.97, 'length': 464.62, 'hist_speed': array([0. , 0.1, 0.9, 0. ]), 'stochastic_time': array([111.51, 111.51, 111.51, 111.51, 111.51])}
+602 1675 {'mean_speed': 33.47, 'name': 1458, 'time': 28.72, 'length': 267.04, 'hist_speed': array([0.4, 0.6, 0. , 0. ]), 'stochastic_time': array([64.09, 64.09, 64.09, 64.09, 64.09])}
+602 1121 {'mean_speed': 30.75, 'name': 1459, 'time': 34.63, 'length': 295.77, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([70.98, 70.98, 70.98, 70.98, 70.98])}
+1675 602 {'mean_speed': 30.7, 'name': 4460, 'time': 31.31, 'length': 267.04, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([64.09, 64.09, 64.09, 64.09, 64.09])}
+1675 1633 {'mean_speed': 27.98, 'name': 5820, 'time': 37.61, 'length': 292.35, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([70.16, 70.16, 70.16, 70.16, 70.16])}
+1121 1633 {'mean_speed': 31.31, 'name': 2339, 'time': 28.77, 'length': 250.21, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([60.05, 60.05, 60.05, 60.05, 60.05])}
+1121 602 {'mean_speed': 36.7, 'name': 4461, 'time': 29.01, 'length': 295.77, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([70.98, 70.98, 70.98, 70.98, 70.98])}
+611 1169 {'mean_speed': 28.54, 'name': 1478, 'time': 27.98, 'length': 221.8, 'hist_speed': array([0.3, 0.2, 0.5, 0. ]), 'stochastic_time': array([53.23, 53.23, 53.23, 53.23, 53.23])}
+611 1127 {'mean_speed': 24.76, 'name': 1479, 'time': 20.2, 'length': 138.9, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([33.34, 33.34, 33.34, 33.34, 33.34])}
+611 949 {'mean_speed': 31.19, 'name': 1480, 'time': 26.98, 'length': 233.78, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([56.11, 56.11, 56.11, 56.11, 56.11])}
+1169 611 {'mean_speed': 31.83, 'name': 4479, 'time': 25.09, 'length': 221.8, 'hist_speed': array([0.5, 0.2, 0.2, 0.1]), 'stochastic_time': array([53.23, 53.23, 53.23, 53.23, 53.23])}
+1169 991 {'mean_speed': 41.56, 'name': 5125, 'time': 22.48, 'length': 259.52, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([62.28, 62.28, 62.28, 62.28, 62.28])}
+1169 1040 {'mean_speed': 33.71, 'name': 5191, 'time': 21.58, 'length': 202.11, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([48.51, 48.51, 48.51, 48.51, 48.51])}
+1169 1061 {'mean_speed': 42.52, 'name': 5217, 'time': 49.8, 'length': 588.21, 'hist_speed': array([0.8, 0.1, 0.1, 0. ]), 'stochastic_time': array([141.17, 141.17, 141.17, 141.17, 141.17])}
+949 1040 {'mean_speed': 12.0, 'name': 2095, 'time': 82.69, 'length': 275.62, 'hist_speed': array([0., 0., 0., 1.]), 'stochastic_time': array([66.15, 66.15, 66.15, 66.15, 66.15])}
+949 1397 {'mean_speed': 32.58, 'name': 2096, 'time': 18.11, 'length': 163.86, 'hist_speed': array([0.3, 0.7, 0. , 0. ]), 'stochastic_time': array([39.33, 39.33, 39.33, 39.33, 39.33])}
+949 1389 {'mean_speed': 29.48, 'name': 2097, 'time': 27.9, 'length': 228.48, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([54.83, 54.83, 54.83, 54.83, 54.83])}
+949 611 {'mean_speed': 26.49, 'name': 4481, 'time': 31.77, 'length': 233.78, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([56.11, 56.11, 56.11, 56.11, 56.11])}
+615 1856 {'mean_speed': 8.75, 'name': 1487, 'time': 208.3, 'length': 506.29, 'hist_speed': array([0., 0., 0., 1.]), 'stochastic_time': array([121.51, 121.51, 121.51, 121.51, 121.51])}
+615 1336 {'mean_speed': 35.81, 'name': 1488, 'time': 23.62, 'length': 235.0, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([56.4, 56.4, 56.4, 56.4, 56.4])}
+615 1341 {'mean_speed': 27.9, 'name': 1489, 'time': 37.03, 'length': 287.01, 'hist_speed': array([0.1, 0.6, 0.3, 0. ]), 'stochastic_time': array([68.88, 68.88, 68.88, 68.88, 68.88])}
+615 967 {'mean_speed': 22.35, 'name': 1490, 'time': 63.03, 'length': 391.33, 'hist_speed': array([0., 0., 1., 0.]), 'stochastic_time': array([93.92, 93.92, 93.92, 93.92, 93.92])}
+1336 1830 {'mean_speed': 37.84, 'name': 2594, 'time': 25.1, 'length': 263.79, 'hist_speed': array([0.6, 0.4, 0. , 0. ]), 'stochastic_time': array([63.31, 63.31, 63.31, 63.31, 63.31])}
+1336 1701 {'mean_speed': 30.1, 'name': 2595, 'time': 35.23, 'length': 294.58, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([70.7, 70.7, 70.7, 70.7, 70.7])}
+1336 615 {'mean_speed': 25.39, 'name': 4489, 'time': 33.32, 'length': 235.0, 'hist_speed': array([0.1, 0.1, 0.8, 0. ]), 'stochastic_time': array([56.4, 56.4, 56.4, 56.4, 56.4])}
+1341 1701 {'mean_speed': 39.22, 'name': 2599, 'time': 21.72, 'length': 236.66, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([56.8, 56.8, 56.8, 56.8, 56.8])}
+1341 615 {'mean_speed': 25.93, 'name': 4490, 'time': 39.85, 'length': 287.01, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([68.88, 68.88, 68.88, 68.88, 68.88])}
+967 1467 {'mean_speed': 36.97, 'name': 2131, 'time': 13.0, 'length': 133.49, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([32.04, 32.04, 32.04, 32.04, 32.04])}
+967 615 {'mean_speed': 27.37, 'name': 4491, 'time': 51.47, 'length': 391.33, 'hist_speed': array([0.1, 0.5, 0.4, 0. ]), 'stochastic_time': array([93.92, 93.92, 93.92, 93.92, 93.92])}
+633 820 {'mean_speed': 31.75, 'name': 1522, 'time': 22.11, 'length': 195.0, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([46.8, 46.8, 46.8, 46.8, 46.8])}
+633 1724 {'mean_speed': 25.22, 'name': 1523, 'time': 29.82, 'length': 208.94, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([50.14, 50.14, 50.14, 50.14, 50.14])}
+633 785 {'mean_speed': 25.03, 'name': 1524, 'time': 65.37, 'length': 454.49, 'hist_speed': array([0. , 0.3, 0.7, 0. ]), 'stochastic_time': array([109.08, 109.08, 109.08, 109.08, 109.08])}
+820 1778 {'mean_speed': 30.93, 'name': 1858, 'time': 22.55, 'length': 193.78, 'hist_speed': array([0.1, 0.8, 0.1, 0. ]), 'stochastic_time': array([46.51, 46.51, 46.51, 46.51, 46.51])}
+820 1698 {'mean_speed': 26.5, 'name': 1859, 'time': 24.05, 'length': 177.04, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([42.49, 42.49, 42.49, 42.49, 42.49])}
+820 1864 {'mean_speed': 25.81, 'name': 1860, 'time': 26.06, 'length': 186.83, 'hist_speed': array([0. , 0.5, 0.5, 0. ]), 'stochastic_time': array([44.84, 44.84, 44.84, 44.84, 44.84])}
+820 633 {'mean_speed': 25.09, 'name': 4523, 'time': 27.98, 'length': 195.0, 'hist_speed': array([0. , 0.7, 0.3, 0. ]), 'stochastic_time': array([46.8, 46.8, 46.8, 46.8, 46.8])}
+1724 633 {'mean_speed': 30.32, 'name': 4524, 'time': 24.81, 'length': 208.94, 'hist_speed': array([0. , 0.9, 0.1, 0. ]), 'stochastic_time': array([50.14, 50.14, 50.14, 50.14, 50.14])}
+1724 1461 {'mean_speed': 30.32, 'name': 5649, 'time': 16.6, 'length': 139.77, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([33.54, 33.54, 33.54, 33.54, 33.54])}
+1724 1644 {'mean_speed': 28.34, 'name': 5832, 'time': 21.99, 'length': 173.11, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([41.55, 41.55, 41.55, 41.55, 41.55])}
+1724 1698 {'mean_speed': 26.65, 'name': 5864, 'time': 25.52, 'length': 188.9, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([45.34, 45.34, 45.34, 45.34, 45.34])}
+785 1643 {'mean_speed': 39.6, 'name': 1790, 'time': 19.33, 'length': 212.63, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([51.03, 51.03, 51.03, 51.03, 51.03])}
+785 1176 {'mean_speed': 45, 'name': 1792, 'time': 17.3, 'length': 216.29, 'hist_speed': array([0.9, 0. , 0.1, 0. ]), 'stochastic_time': array([51.91, 51.91, 51.91, 51.91, 51.91])}
+785 633 {'mean_speed': 31.9, 'name': 4525, 'time': 51.29, 'length': 454.49, 'hist_speed': array([0.1, 0.9, 0. , 0. ]), 'stochastic_time': array([109.08, 109.08, 109.08, 109.08, 109.08])}
+716 772 {'mean_speed': 45, 'name': 1681, 'time': 25.05, 'length': 313.18, 'hist_speed': array([1., 0., 0., 0.]), 'stochastic_time': array([75.16, 75.16, 75.16, 75.16, 75.16])}
+716 637 {'mean_speed': 29.44, 'name': 4530, 'time': 36.83, 'length': 301.16, 'hist_speed': array([0. , 0.8, 0.2, 0. ]), 'stochastic_time': array([72.28, 72.28, 72.28, 72.28, 72.28])}
+638 1012 {'mean_speed': 38.96, 'name': 1532, 'time': 26.57, 'length': 287.53, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([69.01, 69.01, 69.01, 69.01, 69.01])}
+638 928 {'mean_speed': 32.99, 'name': 1533, 'time': 46.89, 'length': 429.69, 'hist_speed': array([0.3, 0.5, 0.2, 0. ]), 'stochastic_time': array([103.13, 103.13, 103.13, 103.13, 103.13])}
+638 1377 {'mean_speed': 36.91, 'name': 1534, 'time': 23.57, 'length': 241.64, 'hist_speed': array([0.9, 0.1, 0. , 0. ]), 'stochastic_time': array([57.99, 57.99, 57.99, 57.99, 57.99])}
+638 1405 {'mean_speed': 35.03, 'name': 1535, 'time': 22.71, 'length': 220.95, 'hist_speed': array([0.5, 0.5, 0. , 0. ]), 'stochastic_time': array([53.03, 53.03, 53.03, 53.03, 53.03])}
+928 1550 {'mean_speed': 25.83, 'name': 2063, 'time': 39.9, 'length': 286.26, 'hist_speed': array([0., 1., 0., 0.]), 'stochastic_time': array([68.7, 68.7, 68.7, 68.7, 68.7])}
+928 638 {'mean_speed': 38.9, 'name': 4534, 'time': 39.77, 'length': 429.69, 'hist_speed': array([0.7, 0.3, 0. , 0. ]), 'stochastic_time': array([103.13, 103.13, 103.13, 103.13, 103.13])}
+928 647 {'mean_speed': 30.0, 'name': 4551, 'time': 32.84, 'length': 273.67, 'hist_speed': array([0.2, 0.6, 0.2, 0. ]), 'stochastic_time': array([65.68, 65.68, 65.68, 65.68, 65.68])}
+928 768 {'mean_speed': 36.58, 'name': 4746, 'time': 27.64, 'length': 280.81, 'hist_speed': array([0.8, 0.2, 0. , 0. ]), 'stochastic_time': array([67.39, 67.39, 67.39, 67.39, 67.39])}
