@@ -3,8 +3,8 @@ import os.path as p
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--device', type=str,default='cpu', help='cpu if running on CPU or cuda if running on GPU')
-parser.add_argument('--data', type=str, default=p.join('data', 'rm_0.5', 'chengdu1026'), help='data path')
-parser.add_argument('--adjdata', type=str,default=p.join('data', 'rm_0.5', 'chengdu1026', 'edge_adj.pickle'), help='adj data path')
+parser.add_argument('--data', type=str, default=p.join('data', 'rm_0.5', 'chengdu173'), help='data path')
+parser.add_argument('--adjdata', type=str,default=p.join('data', 'rm_0.5', 'chengdu173', 'edge_adj.pickle'), help='adj data path')
 parser.add_argument('--nhid', type=int, default=32, help='Size of hidden units')
 parser.add_argument('--hist_size', type=int, default=4, help='inputs dimension or histograms')
 parser.add_argument('--batch_size', type=int, default=32, help='batch size')
