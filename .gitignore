@@ -1,2 +1,7 @@
 .idea
 __pycache__
+data/rm_0.5/chengdu*00
+test.ipynb
+garage
+.gitignore
+testing.py

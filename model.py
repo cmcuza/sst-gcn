@@ -99,11 +99,11 @@ class SST_GCN(nn.Module):
             additional_scope *= 2
 
         self.end_conv_1 = nn.Conv1d(in_channels=kernel_num * self.hist_size,
-                                    out_channels=kernel_num * self.hist_size//2,
+                                    out_channels=kernel_num * self.hist_size // 2,
                                     kernel_size=(1,),
                                     bias=True)
 
-        self.end_conv_2 = nn.Conv1d(in_channels=kernel_num * self.hist_size//2,
+        self.end_conv_2 = nn.Conv1d(in_channels=kernel_num * self.hist_size // 2,
                                     out_channels=self.hist_size,
                                     kernel_size=(1,),
                                     bias=True)
@@ -163,5 +163,3 @@ class SST_GCN(nn.Module):
         d_mat = torch.diag_embed(d_inv)
         diff_adj = torch.matmul(mask_adj, d_mat)
         return diff_adj
-
-
