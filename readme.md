@@ -71,9 +71,11 @@ Please note that the package does not include implementations of baseline method
 ### SSP Simulation
 
 The code in ssp_simulation.py performs a simulation of a Stochastic Routing Algorithm in Chengdu dataset and generates statistics such as:
+
 * Average probability of arriving later than threshold.
 * Max probability of arriving later than threshold
-These values are compared against a deterministic routing algorithm. The results show that using Stochastic Routing Algorithms is superior to deterministic ones if the traveler's delay tolerance needs to be considered.
+
+These values are compared against a deterministic routing algorithm showing that using Stochastic Routing Algorithms is superior to deterministic ones if the traveler's delay tolerance needs to be considered.
 
 ### Reference
 
