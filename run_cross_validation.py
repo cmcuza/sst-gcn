@@ -11,7 +11,7 @@ args = parser.parse_args()
 
 def cross_validation():
     device = torch.device(args.device)
-    mklrs, jsds, earths, maes, rmses = [],[],[],[],[]
+    mklrs, jsds, earths, maes, rmses = [], [], [], [], []
     for fold in range(5):
         args.fold = fold
         adj_mx = util.load_adj(args.adjdata)
