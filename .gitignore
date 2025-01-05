@@ -1,6 +1,7 @@
 .idea
 __pycache__
 data/rm_0.5/chengdu*00
+data/rm_0.5/kdd
 test.ipynb
 garage
 .gitignore
